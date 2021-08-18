@@ -2103,7 +2103,7 @@ GameObject:
   m_Component:
   - component: {fileID: 250891719}
   m_Layer: 0
-  m_Name: BLwall
+  m_Name: BRwall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7258,7 +7258,7 @@ GameObject:
   m_Component:
   - component: {fileID: 817547879}
   m_Layer: 0
-  m_Name: BLfloor
+  m_Name: BRfloor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
