@@ -20,7 +20,7 @@ public class AOpening : MonoBehaviour
     {
         yield return new WaitForSeconds(1.5f);
         FadeScreenIn.SetActive(false);
-        TextBox.GetComponent<Text>().text = "nγじょvsんjんfbjsrn";
+        TextBox.GetComponent<Text>().text = "I need to get out ";
 
         yield return new WaitForSeconds(2);
         TextBox.GetComponent<Text>().text = "";
