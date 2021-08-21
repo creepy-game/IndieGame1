@@ -1,5 +1,23 @@
-# LastHouse
-これ以上リポジトリは増やさない
-うんち
-おさこれ以上サボったらうんち食わせる
-pull眠くてpillに
+## LastHouse
+UnityVer:2020.3.12
+
+## ShortCut Key
+- ⌘s:Save 
+- ⌘z:Return
+- ⌘d:Duplicate
+- ⌘c:Copy
+- ⌘v:Past
+
+- q:Hold
+- w:Move
+- e:Rotation
+- r:Scale
+
+## Key設定
+- Walk:HorizonKey+VerticalKey
+- space:Jump
+- Shift:Run
+- Action:e
+- Return:r
+- Find:w
+
