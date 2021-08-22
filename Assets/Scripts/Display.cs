@@ -6,44 +6,48 @@ using UnityEngine.UI;
 public class Display : MonoBehaviour
 {
     public float TheDistance;
-    public GameObject ActionDisplay;
-    public GameObject ActionText;
-    public GameObject TheDoor;
-    public AudioSource CreaakSound;
+    public GameObject CmdFindText;
+    public GameObject CmdReturnText;
+    public GameObject Item;
+    public GameObject Expalain;
+    public GameObject Picture;
+    public GameObject ThePlayer;
 
     void Update()
     {
         TheDistance = PlayerCasting.DistanceFromTarget;
-
-        if (Input.GetButtonDown("Find"))
-        {
-            ActionDisplay.SetActive(false);
-            ActionText.SetActive(false);
-        }
-
     }
 
     void OnMouseOver()
     {
         if (TheDistance <= 2)
         {
-            ActionDisplay.SetActive(true);
-            ActionText.SetActive(true);
-
+            CmdFindText.SetActive(true);
         }
 
-        if (Input.GetButtonDown("Return"))
+        if (Input.GetButtonDown("Find"))//w:Keyを割り当てている
         {
             if (TheDistance <= 2)
             {
-                this.GetComponent<BoxCollider>().enabled = false;
-                ActionDisplay.SetActive(false);
-                ActionText.SetActive(false);
-                CreaakSound.Play();
+                CmdFindText.SetActive(false);
+                Expalain.SetActive(true);
+                Picture.SetActive(true);
+                CmdReturnText.SetActive(true);
             }
         }
+
+        if (Input.GetButtonDown("Return"))//r:Keyを割り当てている
+        {
+            Expalain.SetActive(false);
+            Picture.SetActive(false);
+            CmdReturnText.SetActive(false);
+        }
+
+
     }
-    
-   
-    
+
+    void OnMouseExit()
+    {
+        CmdFindText.SetActive(false);
+    }
 }
