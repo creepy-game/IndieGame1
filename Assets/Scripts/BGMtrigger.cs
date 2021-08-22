@@ -4,15 +4,17 @@ using UnityEngine;
 
 public class BGMtrigger : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    
+    public AudioSource StopBGM;
+    public AudioSource StartBGM;
 
-    // Update is called once per frame
-    void Update()
+    void OnTriggrStay(Collider collider)
     {
-        
+        if (collider.CompareTag("Player"))
+        {
+            StopBGM .Stop();
+            StartBGM.Play();
+
+        }
     }
 }
