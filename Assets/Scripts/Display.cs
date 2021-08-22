@@ -15,7 +15,7 @@ public class Display : MonoBehaviour
     {
         TheDistance = PlayerCasting.DistanceFromTarget;
 
-        if (Input.GetButtonDown("Return"))
+        if (Input.GetButtonDown("Find"))
         {
             ActionDisplay.SetActive(false);
             ActionText.SetActive(false);
