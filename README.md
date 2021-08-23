@@ -19,6 +19,6 @@ UnityVer:2020.3.12
 - Shift:Run
 - Action:e
 - Return:r
-- Find:w
+- Find:t
 
 
