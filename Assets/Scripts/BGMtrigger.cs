@@ -1,20 +1,32 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(AudioSource))]
 public class BGMtrigger : MonoBehaviour
 {
-    
-    public AudioSource StopBGM;
-    public AudioSource StartBGM;
+    [Tooltip("Trigger に入っている時の BGM")]
+    public AudioClip m_bgmIn;
+    [Tooltip("Trigger から出ている時の BGM")]
+    public AudioClip m_bgmOut;
 
-    void OnTriggrStay(Collider collider)
+    void OnTriggerEnter(Collider other)
     {
-        if (collider.CompareTag("Player"))
+        if (other.gameObject.CompareTag("Player"))
         {
-            StopBGM .Stop();
-            StartBGM.Play();
+            Debug.Log("侵入した");
+            AudioSource a = GetComponent<AudioSource>();
+            a.clip = m_bgmIn;
+            a.Play();
+        }
+    }
 
+    void OnTriggerExit(Collider other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+            Debug.Log("出た");
+            AudioSource a = GetComponent<AudioSource>();
+            a.clip = m_bgmOut;
+            a.Play();
         }
     }
 }
