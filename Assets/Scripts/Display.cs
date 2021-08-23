@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityStandardAssets.Characters.FirstPerson;
 
 public class Display : MonoBehaviour
 {
@@ -12,11 +13,22 @@ public class Display : MonoBehaviour
     public GameObject Expalain;
     public GameObject Picture;
     public GameObject ThePlayer;
+    public GameObject FirstPersonController;
 
     void Update()
     {
         TheDistance = PlayerCasting.DistanceFromTarget;
+        if (Input.GetButtonDown("Return"))//r:Keyを割り当てている
+        {
+            Expalain.SetActive(false);
+            Picture.SetActive(false);
+            CmdReturnText.SetActive(false);
+            ThePlayer.GetComponent<FirstPersonController>().enabled = true;
+            CmdFindText.SetActive(false);
+        }
+        
     }
+
 
     void OnMouseOver()
     {
@@ -25,7 +37,7 @@ public class Display : MonoBehaviour
             CmdFindText.SetActive(true);
         }
 
-        if (Input.GetButtonDown("Find"))//w:Keyを割り当てている
+        if (Input.GetButtonDown("Find"))//t:Keyを割り当てている
         {
             if (TheDistance <= 2)
             {
@@ -33,19 +45,18 @@ public class Display : MonoBehaviour
                 Expalain.SetActive(true);
                 Picture.SetActive(true);
                 CmdReturnText.SetActive(true);
-            }
-        }
+                ThePlayer.GetComponent<FirstPersonController>().enabled = false;
+                
 
-        if (Input.GetButtonDown("Return"))//r:Keyを割り当てている
-        {
-            Expalain.SetActive(false);
-            Picture.SetActive(false);
-            CmdReturnText.SetActive(false);
+            }
+
         }
+       
+
+
 
 
     }
-
     void OnMouseExit()
     {
         CmdFindText.SetActive(false);
