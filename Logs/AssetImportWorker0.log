@@ -2458,3 +2458,1680 @@ Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c5675961
   ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
   Import took 0.006716 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 3.622184 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001161 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.984410 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001095 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.062340 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001098 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.736195 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001183 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.347631 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000883 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.042065 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001635 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.012884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.089856 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001484 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.995296 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001104 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.662078 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001691 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.377048 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001947 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.193518 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000945 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.694143 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000937 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.634852 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001543 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.247692 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001568 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.239402 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001167 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.760952 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001471 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.181536 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001353 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.266029 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001570 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.174081 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001245 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.086884 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001079 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.796805 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001111 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.737139 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001658 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.946284 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001631 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.345468 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001290 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.092201 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001234 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.894563 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001193 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.287969 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001196 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.892185 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001242 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.496152 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001317 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.495903 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001692 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.986801 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001381 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.695303 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001478 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.244995 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001182 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.796603 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000963 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.542375 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001221 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.846983 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000983 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.593715 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001119 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.641765 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001220 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.547878 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001267 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035188 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001341 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.595498 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001138 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.795939 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001025 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.847213 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001361 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.544904 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001422 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.037226 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001173 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.148000 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001267 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.095068 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000934 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.187669 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001136 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.047756 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001035 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.495650 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001103 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.497836 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001359 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.294343 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001326 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.438305 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001195 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.450916 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001702 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033079 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001172 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.952848 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000968 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035958 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001544 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.498731 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001523 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.484194 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001447 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.594961 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001232 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.540174 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001376 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.546238 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001386 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.448844 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001531 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.643060 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001288 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.992255 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001009 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.693379 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001322 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.688199 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001581 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.498887 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001525 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.787617 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002002 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.590966 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001215 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.456704 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001524 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.082003 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001223 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.588227 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001758 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.010480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.621775 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002180 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.217625 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001940 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.537104 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001284 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.152078 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001069 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.092837 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001103 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.496000 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001532 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.544614 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001244 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.535509 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001319 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.522226 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001196 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.396375 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001475 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.264956 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001037 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.250332 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000992 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034891 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001022 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.971494 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001874 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.009909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.868752 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001427 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.687603 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001049 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.545074 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001035 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.145630 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001688 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.652113 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001303 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.588367 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000994 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.399099 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001108 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.390715 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001068 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.901424 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001337 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.894732 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000934 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.142451 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001351 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.389293 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001242 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.601268 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000996 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.745965 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001013 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034904 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001036 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.843137 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001398 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.945989 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001287 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.397106 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001201 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.191496 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001088 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.993385 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001147 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.873390 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001564 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.010147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.512098 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001458 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.096296 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001174 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.891413 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001523 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.039271 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001167 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.314308 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001546 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.671210 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001084 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.725502 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001857 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.461202 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001133 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.806168 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000864 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.003710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.643710 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001661 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.991177 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001119 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.872090 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001837 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.009806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.256992 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001240 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.742138 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001037 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.578702 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002889 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.012352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.164842 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001255 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090581 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000992 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.195618 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001271 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089651 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001640 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092084 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001133 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090622 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001209 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095477 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001331 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.679214 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001838 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.898932 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000938 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.354248 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001658 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.884670 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002013 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.430367 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001165 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.048418 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001193 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.272097 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001685 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.261005 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001033 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.450737 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001120 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.004749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.590869 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001801 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.741066 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001116 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.246564 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001129 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.841786 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001790 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.054388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.390347 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001675 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.022589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.284957 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001638 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.944423 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001044 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.394306 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001186 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.593969 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001795 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.462016 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001229 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.009205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.163590 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001525 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.009199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.754577 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002375 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.010281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.209374 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001808 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.858209 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001269 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.605462 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002329 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.087875 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001236 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.292089 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001735 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.890458 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001319 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.321584 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.003227 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.012076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.766527 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001811 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.013722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.075007 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001312 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.682187 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001637 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.012937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.952378 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001453 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.531253 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002816 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.010954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.350414 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001168 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.763894 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001984 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.718674 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001192 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.183917 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001791 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.010045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.248054 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001021 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.548076 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001027 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.838844 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000976 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.702711 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001417 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.008490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.589719 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000974 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.511854 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001230 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.266850 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001212 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.551599 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000966 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.735533 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.002930 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.010117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.994164 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001051 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.500572 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001474 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.005204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.437011 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001393 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.657269 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001081 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.195453 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001600 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.192633 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001858 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.006993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.297542 seconds.
+  path: Assets/Scripts/Display.cs
+  artifactKey: Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Display.cs using Guid(f9100887931ac4f9fa7c567596151de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001287 seconds  code(4) message(Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z')
+  ERROR: Build asset version error: assets/scripts/display.cs in SourceAssetDB has modification time of '2021-08-24T05:08:04Z' while content on disk has modification time of '2021-08-24T05:09:02Z'
+  Import took 0.007279 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016052 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.039 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1524 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.3 MB.
+System memory in use after: 158.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2015.
+Total: 4.391770 ms (FindLiveObjects: 0.296062 ms CreateObjectMapping: 0.070576 ms MarkObjects: 2.878042 ms  DeleteObjects: 1.145137 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

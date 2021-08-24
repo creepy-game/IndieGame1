@@ -78,7 +78,6 @@
     <Compile Include="Assets/Scripts/SceneManager/SceneManager8.cs" />
     <Compile Include="Assets/Scripts/BGMtrigger.cs" />
     <Compile Include="Assets/Scripts/Destroyer.cs" />
-    <Compile Include="Assets/Scripts/NewDestroy.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
