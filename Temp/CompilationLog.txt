@@ -1,6 +1,0 @@
-# Starting compiling Assembly-CSharp-firstpass.dll
-/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bb59e04f7287f46c79c6632e7177d381
-# Starting compiling Assembly-CSharp.dll
-/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-51c52dde90a0f4556bf01fb5b4b4fa74
-# Starting compiling Assembly-CSharp-Editor-firstpass.dll
-/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f8801b238bfd2414790629192b3c1100
