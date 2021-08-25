@@ -11,7 +11,7 @@
       <File FileName="Assets/Scripts/SceneManager/PlayerMove3.cs" />
       <File FileName="Assets/Scripts/PickUpPistol.cs" />
       <File FileName="Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/InputModules/BaseInput.cs" />
-      <File FileName="Assets/Scripts/Explain.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/Explain.cs" Line="20" Column="30" />
       <File FileName="Assets/Scripts/DoorCellOpen.cs" />
       <File FileName="Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
     </Files>
