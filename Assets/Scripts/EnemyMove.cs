@@ -26,4 +26,30 @@ public class MoveEnemy3 : MonoBehaviour
         //  SlimePos = transform.position;
         //transform.rotation = Quaternion.LookRotation(new Vector3(0, 90, 0));
     }
+
+    if (elapsedTime > waitTime) {
+            SetState(EnemyState.Walk);
+
+        //　攻撃後のフリーズ状態
+    } else if (state == EnemyState.Freeze)
+
+    elapsedTime += Time.deltaTime;
+
+    if (elapsedTime > freezeTimeAfterAttack)
+    {
+        SetState(EnemyState.Walk);
+    }
+
+    else if (state == EnemyState.Attack)
+{
+    //　プレイヤーの方向を取得
+    var playerDirection = new Vector3(playerTransform.position.x, transform.position.y, playerTransform.position.z) - transform.position;
+    //　敵の向きをプレイヤーの方向に少しづつ変える
+    var dir = Vector3.RotateTowards(transform.forward, playerDirection, rotateSpeed * Time.deltaTime, 0f);
+    //　算出した方向の角度を敵の角度に設定
+    transform.rotation = Quaternion.LookRotation(dir);
 }
+
+}
+
+    

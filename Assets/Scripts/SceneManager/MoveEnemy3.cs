@@ -17,5 +17,19 @@ public class Move : MonoBehaviour
         //目的地となる座標を設定する
         agent.destination = goal.position;
     }
+    if (elapsedTime > freezeTimeAfterAttack)
+    {
+        SetState(EnemyState.Walk);
+}
+
+    else if (state == EnemyState.Attack)
+{
+    //　プレイヤーの方向を取得
+    var playerDirection = new Vector3(playerTransform.position.x, transform.position.y, playerTransform.position.z) - transform.position;
+    //　敵の向きをプレイヤーの方向に少しづつ変える
+    var dir = Vector3.RotateTowards(transform.forward, playerDirection, rotateSpeed * Time.deltaTime, 0f);
+    //　算出した方向の角度を敵の角度に設定
+    transform.rotation = Quaternion.LookRotation(dir);
+}
 
 }
