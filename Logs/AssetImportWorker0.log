@@ -1,68 +1,68 @@
 Using pre-set license
 
  COMMAND LINE ARGUMENTS:
-/Applications/Unity/Unity.app/Contents/MacOS/Unity
+/Applications/Unity/2020.3.12f1/Unity.app/Contents/MacOS/Unity
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-/Users/yamaguchishuuhei/Programs/Unity_dev/IndieGame1
+/Users/obotesouta/LastHouse
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-56865
-Successfully changed project path to: /Users/yamaguchishuuhei/Programs/Unity_dev/IndieGame1
-/Users/yamaguchishuuhei/Programs/Unity_dev/IndieGame1
+56069
+Successfully changed project path to: /Users/obotesouta/LastHouse
+/Users/obotesouta/LastHouse
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 147.45 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 137.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
-[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/yamaguchishuuhei/Programs/Unity_dev/IndieGame1/Assets
+[Subsystems] Discovering subsystems at path /Applications/Unity/2020.3.12f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/obotesouta/LastHouse/Assets
 GfxDevice: creating device client; threaded=0
-2021-09-09 21:40:03.655 Unity[45619:1359875] Color LCD preferred device: Intel(R) UHD Graphics 617 (low power)
-2021-09-09 21:40:03.655 Unity[45619:1359875] Metal devices available: 1
-2021-09-09 21:40:03.655 Unity[45619:1359875] 0: Intel(R) UHD Graphics 617 (low power)
-2021-09-09 21:40:03.657 Unity[45619:1359875] Using device Intel(R) UHD Graphics 617 (low power)
+2021-09-10 00:43:55.909 Unity[15510:561120] Color LCD preferred device: Intel(R) UHD Graphics 617 (low power)
+2021-09-10 00:43:55.927 Unity[15510:561120] Metal devices available: 1
+2021-09-10 00:43:55.928 Unity[15510:561120] 0: Intel(R) UHD Graphics 617 (low power)
+2021-09-10 00:43:55.929 Unity[15510:561120] Using device Intel(R) UHD Graphics 617 (low power)
 Initializing Metal device caps: Intel(R) UHD Graphics 617
 Initialize mono
-Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
-Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56619
+Mono path[0] = '/Applications/Unity/2020.3.12f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56510
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.003017 seconds.
+Register platform support module: /Applications/Unity/2020.3.12f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003903 seconds.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 77.88 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 99.87 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  6.676 seconds
+- Completed reload, in  4.674 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.033962 seconds.
+Registered in 0.022978 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 1.77 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.59 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.410 seconds
+- Completed reload, in  3.045 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Launching external process: /Applications/Unity/2020.3.12f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1546 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 157.9 MB.
-System memory in use after: 157.5 MB.
+System memory in use before: 163.0 MB.
+System memory in use after: 162.6 MB.
 
 Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2011.
-Total: 4.043346 ms (FindLiveObjects: 0.311465 ms CreateObjectMapping: 0.083362 ms MarkObjects: 2.613966 ms  DeleteObjects: 1.032883 ms)
+Total: 3.858572 ms (FindLiveObjects: 0.261730 ms CreateObjectMapping: 0.075551 ms MarkObjects: 2.218539 ms  DeleteObjects: 1.301661 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -76,27 +76,28 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Audio/stage4FX/Count60s.mp3
-  artifactKey: Guid(110b71c2f69bf417e9e64b55c9ae90dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Audio/stage4FX/Count60s.mp3 using Guid(110b71c2f69bf417e9e64b55c9ae90dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee57175802a47fdf3b016d490a761aa') in 2.785060 seconds 
-  Import took 2.792682 seconds .
+  path: Assets/Scenes
+  artifactKey: Guid(a2940a8f8c8471044b4df1fc30dbc35d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(a2940a8f8c8471044b4df1fc30dbc35d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbe865792466635850c587c66ec10934') in 0.004570 seconds 
+  Import took 0.009995 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000342 seconds.
-  path: Assets/Audio/stage4FX/HevenOrHell.mp3
-  artifactKey: Guid(23776d7ecb7414619988fb8cf46727c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Audio/stage4FX/HevenOrHell.mp3 using Guid(23776d7ecb7414619988fb8cf46727c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36e06f4b71762155d216a3a969586d8a') in 0.013487 seconds 
-  Import took 0.020430 seconds .
+  Time since last request: 42.539892 seconds.
+  path: Assets/Box
+  artifactKey: Guid(916bec818aad3439daa3ef9858001aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Box using Guid(916bec818aad3439daa3ef9858001aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed0dc1d375e62a688a8ced13c4ffb9a3') in 0.001993 seconds 
+  Import took 0.016580 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.097940 seconds.
-  path: Assets/Audio/stage4FX/Count60s.mp3
-  artifactKey: Guid(110b71c2f69bf417e9e64b55c9ae90dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Audio/stage4FX/Count60s.mp3 using Guid(110b71c2f69bf417e9e64b55c9ae90dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee57175802a47fdf3b016d490a761aa') in 0.014460 seconds 
-  Import took 0.021336 seconds .
+  Time since last request: 14.787260 seconds.
+  path: Assets/Box/Prefabs(orignal)/Lamp.fbx
+  artifactKey: Guid(be4ec87325241489b9994b22e717fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Box/Prefabs(orignal)/Lamp.fbx using Guid(be4ec87325241489b9994b22e717fa7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89ebf8a2baa3c2995741e5cc5c6d256') in 2.991359 seconds 
+  Import took 3.001374 seconds .
 
+<<<<<<< HEAD
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
@@ -379,3 +380,5 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+=======
+>>>>>>> 4a5b457211cd22af20266be22b23224dc5baf5ae
