@@ -13,26 +13,26 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-08-16T06:02:53.837+09:00
-  initializedAtString: 2021-08-16T06:00:54.773+09:00
+  lastUpdatedAtString: 2021-09-16T23:39:37.462+09:00
+  initializedAtString: 2021-09-16T23:39:37.462+09:00
   currentGitRemote:
     name: origin
-    url: https://github.com/creepy-game/LastHouse.git
+    url: https://github.com/creepy-game/IndieGame1.git
     login: 
     user: 
     host: 
     function: 0
     token: 
   currentGitBranch:
-    name: shuhei_develop
-    tracking: origin/shuhei_develop
+    name: ikeke2
+    tracking: origin/ikeke2
   currentConfigBranch:
-    name: shuhei_develop
+    name: ikeke2
     remote:
       name: origin
-      url: https://github.com/creepy-game/LastHouse.git
-    trackingBranch: shuhei_develop
+      url: https://github.com/creepy-game/IndieGame1.git
+    trackingBranch: ikeke2
   currentConfigRemote:
     name: origin
-    url: https://github.com/creepy-game/LastHouse.git
+    url: https://github.com/creepy-game/IndieGame1.git
   currentHead: 
