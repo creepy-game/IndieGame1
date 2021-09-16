@@ -5,16 +5,26 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 637673980617696639
     m_Hash: 350125853
+=======
+      ticks: 637661995520000000
+    m_Hash: 1804034574
+>>>>>>> 7cf0e2f442837203eb7c741f38b2f438425c3367
   m_LockFileStatus:
     m_FilePath: C:/Users/o52sa/Documents/IndieGame1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 637673980617696639
     m_Hash: 3926644069
+=======
+      ticks: 637661995520000000
+    m_Hash: 3081607446
+>>>>>>> 7cf0e2f442837203eb7c741f38b2f438425c3367
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
