@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "name": "Unity.ProBuilder.AssetIdRemapUtility",
     "references": [],
@@ -8,15 +7,4 @@
     ],
     "excludePlatforms": [],
     "allowUnsafeCode": false
-=======
-{
-    "name": "Unity.ProBuilder.AssetIdRemapUtility",
-    "references": [],
-    "optionalUnityReferences": [],
-    "includePlatforms": [
-        "Editor"
-    ],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false
->>>>>>> 7cf0e2f442837203eb7c741f38b2f438425c3367
 }

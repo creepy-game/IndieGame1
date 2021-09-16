@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "name": "Unity.ProBuilder.AddOns.Editor",
     "references": [
@@ -15,21 +14,3 @@
     "precompiledReferences": [],
     "autoReferenced": true
 }
-=======
-{
-    "name": "Unity.ProBuilder.AddOns.Editor",
-    "references": [
-        "Unity.ProBuilder",
-        "Unity.ProBuilder.Editor"
-    ],
-    "optionalUnityReferences": [],
-    "includePlatforms": [
-        "Editor"
-    ],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
-    "autoReferenced": true
-}
->>>>>>> 7cf0e2f442837203eb7c741f38b2f438425c3367

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 using UnityEngine;
 using System.Collections.Generic;
 
@@ -36,42 +35,3 @@ namespace UnityEngine.ProBuilder.Csg
         }
     }
 }
-=======
-using UnityEngine;
-using System.Collections.Generic;
-
-namespace UnityEngine.ProBuilder.Csg
-{
-    /// <summary>
-    /// Represents a polygon face with an arbitrary number of vertices.
-    /// </summary>
-    sealed class Polygon
-    {
-        public List<Vertex> vertices;
-        public Plane plane;
-        public Material material;
-
-        public Polygon(List<Vertex> list, Material mat)
-        {
-            vertices = list;
-            plane = new Plane(list[0].position, list[1].position, list[2].position);
-            material = mat;
-        }
-
-        public void Flip()
-        {
-            vertices.Reverse();
-
-            for (int i = 0; i < vertices.Count; i++)
-                vertices[i].Flip();
-
-            plane.Flip();
-        }
-
-        public override string ToString()
-        {
-            return "normal: " + plane.normal;
-        }
-    }
-}
->>>>>>> 7cf0e2f442837203eb7c741f38b2f438425c3367

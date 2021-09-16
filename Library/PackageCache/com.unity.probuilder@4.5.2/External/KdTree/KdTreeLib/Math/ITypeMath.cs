@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿namespace UnityEngine.ProBuilder.KdTree
 {
 	interface ITypeMath<T>
@@ -32,38 +31,3 @@
 		T DistanceSquaredBetweenPoints(T[] a, T[] b);
 	}
 }
-=======
-﻿namespace UnityEngine.ProBuilder.KdTree
-{
-	interface ITypeMath<T>
-	{
-		int Compare(T a, T b);
-
-		T MinValue { get; }
-
-		T MaxValue { get; }
-
-		T Min(T a, T b);
-
-		T Max(T a, T b);
-
-		bool AreEqual(T a, T b);
-
-		bool AreEqual(T[] a, T[] b);
-
-		T Add(T a, T b);
-
-		T Subtract(T a, T b);
-
-		T Multiply(T a, T b);
-
-		T Zero { get; }
-
-		T NegativeInfinity { get; }
-
-		T PositiveInfinity { get; }
-
-		T DistanceSquaredBetweenPoints(T[] a, T[] b);
-	}
-}
->>>>>>> 7cf0e2f442837203eb7c741f38b2f438425c3367
