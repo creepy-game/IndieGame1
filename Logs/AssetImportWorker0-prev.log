@@ -4,23 +4,39 @@ OS: 'Windows 10 Home; OS build 19042.1165; Version 2009; 64bit' Language: 'ja' P
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
+<<<<<<< HEAD
 C:\Program Files\Unity\Editor\Unity.exe
+=======
+/Applications/Unity/2020.3.12f1/Unity.app/Contents/MacOS/Unity
+>>>>>>> 4cad1b0a83d4558c46881af1de047b12bfd66643
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
+<<<<<<< HEAD
 C:/Users/o52sa/Documents/IndieGame1
+=======
+/Users/obotesouta/LastHouse
+>>>>>>> 4cad1b0a83d4558c46881af1de047b12bfd66643
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
+<<<<<<< HEAD
 <<<<<<< HEAD
 57081
 Successfully changed project path to: C:/Users/o52sa/Documents/IndieGame1
 C:/Users/o52sa/Documents/IndieGame1
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 83.60 ms, found 4 plugins.
+=======
+56813
+Successfully changed project path to: /Users/yamaguchishuuhei/Programs/Unity_dev/IndieGame1
+/Users/yamaguchishuuhei/Programs/Unity_dev/IndieGame1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 182.80 ms, found 2 plugins.
+>>>>>>> 4cad1b0a83d4558c46881af1de047b12bfd66643
 =======
 58459
 Successfully changed project path to: /Users/obotesouta/LastHouse
@@ -30,6 +46,7 @@ Refreshing native plugins compatible for Editor in 107.90 ms, found 2 plugins.
 >>>>>>> 7cf0e2f442837203eb7c741f38b2f438425c3367
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+<<<<<<< HEAD
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/o52sa/Documents/IndieGame1/Assets
 GfxDevice: creating device client; threaded=0
@@ -288,6 +305,96 @@ System memory in use after: 76.1 MB.
 
 Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2012.
 Total: 3.114500 ms (FindLiveObjects: 0.217200 ms CreateObjectMapping: 0.063400 ms MarkObjects: 2.401400 ms  DeleteObjects: 0.430600 ms)
+=======
+[Subsystems] Discovering subsystems at path /Applications/Unity/2020.3.12f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/obotesouta/LastHouse/Assets
+GfxDevice: creating device client; threaded=0
+<<<<<<< HEAD
+2021-09-16 23:08:06.698 Unity[97656:1810100] Color LCD preferred device: Intel(R) UHD Graphics 617 (low power)
+2021-09-16 23:08:06.698 Unity[97656:1810100] Metal devices available: 1
+2021-09-16 23:08:06.698 Unity[97656:1810100] 0: Intel(R) UHD Graphics 617 (low power)
+2021-09-16 23:08:06.699 Unity[97656:1810100] Using device Intel(R) UHD Graphics 617 (low power)
+Initializing Metal device caps: Intel(R) UHD Graphics 617
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56656
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003872 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 122.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.344 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.033909 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.204 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1546 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.7 MB.
+System memory in use after: 158.2 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2011.
+Total: 3.495225 ms (FindLiveObjects: 0.289017 ms CreateObjectMapping: 0.082145 ms MarkObjects: 2.411977 ms  DeleteObjects: 0.710327 ms)
+=======
+2021-09-16 23:42:38.562 Unity[97978:911839] Color LCD preferred device: Intel(R) UHD Graphics 617 (low power)
+2021-09-16 23:42:38.563 Unity[97978:911839] Metal devices available: 1
+2021-09-16 23:42:38.563 Unity[97978:911839] 0: Intel(R) UHD Graphics 617 (low power)
+2021-09-16 23:42:38.563 Unity[97978:911839] Using device Intel(R) UHD Graphics 617 (low power)
+Initializing Metal device caps: Intel(R) UHD Graphics 617
+Initialize mono
+Mono path[0] = '/Applications/Unity/2020.3.12f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56978
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/2020.3.12f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003598 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 77.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  8.323 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.030511 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.342 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/2020.3.12f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1546 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.9 MB.
+System memory in use after: 163.4 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2011.
+Total: 3.127845 ms (FindLiveObjects: 0.250036 ms CreateObjectMapping: 0.073201 ms MarkObjects: 2.215262 ms  DeleteObjects: 0.588103 ms)
+>>>>>>> 7cf0e2f442837203eb7c741f38b2f438425c3367
+>>>>>>> 4cad1b0a83d4558c46881af1de047b12bfd66643
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -299,3 +406,76 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+<<<<<<< HEAD
+=======
+========================================================================
+Received Import Request.
+<<<<<<< HEAD
+  path: Assets/Scenes/Stage1.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Stage1.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '304ca0edb1b70db37d3021d4075ee061') in 0.030325 seconds 
+  Import took 0.035387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 487.779603 seconds.
+  path: Assets/Scenes/monster.2.fbx
+  artifactKey: Guid(aebfb07923f5649219baddbf139392bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/monster.2.fbx using Guid(aebfb07923f5649219baddbf139392bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7723fdbe0685c8b43a4e397d40e4f40') in 3.987637 seconds 
+  Import took 4.135350 seconds .
+=======
+  path: Assets/prefab/orignal/frame.5.fbx
+  artifactKey: Guid(f48dc21c6d57046838d4a92a6ae42ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/orignal/frame.5.fbx using Guid(f48dc21c6d57046838d4a92a6ae42ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea206e79172d7bc830bbe1c683b69c2b') in 3.190088 seconds 
+  Import took 3.196018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000670 seconds.
+  path: Assets/prefab/orignal/frame.1.fbx
+  artifactKey: Guid(05d1f525c01b44a359d004db831976b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/orignal/frame.1.fbx using Guid(05d1f525c01b44a359d004db831976b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92824809356853cb81f6a22d11fbd61c') in 0.267970 seconds 
+  Import took 0.279224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000562 seconds.
+  path: Assets/prefab/orignal/frame.6.fbx
+  artifactKey: Guid(9b36e5f1c41f34f778635e6bac50753a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/orignal/frame.6.fbx using Guid(9b36e5f1c41f34f778635e6bac50753a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71d6208e18b4548185a18ce5e68cc126') in 0.255530 seconds 
+  Import took 0.265708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/prefab/orignal/frame.4.fbx
+  artifactKey: Guid(3906fb3f99c0c401c84dc424b50f6dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/orignal/frame.4.fbx using Guid(3906fb3f99c0c401c84dc424b50f6dcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5326b4e7486bef596f4d49c4e1c6077') in 0.235437 seconds 
+  Import took 0.242915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001489 seconds.
+  path: Assets/prefab/orignal/frame.2.fbx
+  artifactKey: Guid(22cdf8d0f738740408e478fa2314b8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/orignal/frame.2.fbx using Guid(22cdf8d0f738740408e478fa2314b8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c967ef008d50cbf234df9505d87fd215') in 0.203098 seconds 
+  Import took 0.210956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/prefab/orignal/frame.7.fbx
+  artifactKey: Guid(0bbe6d6caa7d743719198e7256c890c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/orignal/frame.7.fbx using Guid(0bbe6d6caa7d743719198e7256c890c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16fa1aa665b00a9e158a14a2ed102e83') in 0.210071 seconds 
+  Import took 0.217223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/prefab/orignal/frame.3.fbx
+  artifactKey: Guid(22fb54a505851480a88f573ca69c2734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/prefab/orignal/frame.3.fbx using Guid(22fb54a505851480a88f573ca69c2734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed25799ccc1c50f82f63ebd259fcbcf') in 0.228485 seconds 
+  Import took 0.235396 seconds .
+>>>>>>> 7cf0e2f442837203eb7c741f38b2f438425c3367
+
+>>>>>>> 4cad1b0a83d4558c46881af1de047b12bfd66643
