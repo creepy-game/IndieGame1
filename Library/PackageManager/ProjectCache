@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637677312490000000
+      ticks: 637674076720000000
     m_Hash: 1804034574
   m_LockFileStatus:
     m_FilePath: /Users/yamaguchishuuhei/IndieGame1/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637677312490000000
+      ticks: 637674076720000000
     m_Hash: 3081607446
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
