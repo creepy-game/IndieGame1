@@ -13,31 +13,33 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-08-22T03:47:29.051+09:00
-  initializedAtString: 2021-08-22T03:47:29.029+09:00
+  lastUpdatedAtString: 2021-09-20T18:35:13.134+09:00
+  initializedAtString: 2021-09-20T18:35:12.965+09:00
   localBranches:
-  - name: ikeke
-    tracking: origin/ikeke
-  - name: main
-    tracking: origin/main
-  - name: shuhei_develop
-    tracking: origin/shuhei_develop
-  - name: shuhei_develop2
+  - name: ikeke2
+    tracking: origin/ikeke2
+  - name: main2
+    tracking: origin/main2
+  - name: obote_dev.2
+    tracking: origin/obote_dev.2
+  - name: shuhei_dev2
+    tracking: origin/shuhei_dev2
+  - name: fix/stage3
     tracking: 
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
-  - name: origin/ikeke
+  - name: origin/ikeke2
     tracking: '[None]'
-  - name: origin/main
+  - name: origin/main2
     tracking: '[None]'
-  - name: origin/shuhei_develop
+  - name: origin/shuhei_dev2
     tracking: '[None]'
-  - name: origin/shuhei_develop2
+  - name: origin/fix/stage3
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/creepy-game/LastHouse.git
+    url: https://github.com/creepy-game/IndieGame1.git
     login: 
     user: 
     host: 
@@ -45,27 +47,33 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - ikeke
-    - main
-    - shuhei_develop
-    - shuhei_develop2
+    - ikeke2
+    - main2
+    - obote_dev.2
+    - shuhei_dev2
+    - fix/stage3
     values:
-    - name: ikeke
+    - name: ikeke2
       remote:
         name: origin
-        url: https://github.com/creepy-game/LastHouse.git
-      trackingBranch: ikeke
-    - name: main
+        url: https://github.com/creepy-game/IndieGame1.git
+      trackingBranch: ikeke2
+    - name: main2
       remote:
         name: origin
-        url: https://github.com/creepy-game/LastHouse.git
-      trackingBranch: main
-    - name: shuhei_develop
+        url: https://github.com/creepy-game/IndieGame1.git
+      trackingBranch: main2
+    - name: obote_dev.2
       remote:
         name: origin
-        url: https://github.com/creepy-game/LastHouse.git
-      trackingBranch: shuhei_develop
-    - name: shuhei_develop2
+        url: https://github.com/creepy-game/IndieGame1.git
+      trackingBranch: obote_dev.2
+    - name: shuhei_dev2
+      remote:
+        name: origin
+        url: https://github.com/creepy-game/IndieGame1.git
+      trackingBranch: shuhei_dev2
+    - name: fix/stage3
       remote:
         name: 
         url: 
@@ -76,40 +84,40 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
-      - ikeke
-      - main
-      - shuhei_develop
-      - shuhei_develop2
+      - ikeke2
+      - main2
+      - shuhei_dev2
+      - fix/stage3
     subKeyValues:
     - Values:
       - name: HEAD
         remote:
           name: origin
-          url: https://github.com/creepy-game/LastHouse.git
+          url: https://github.com/creepy-game/IndieGame1.git
         trackingBranch: 
-      - name: ikeke
+      - name: ikeke2
         remote:
           name: origin
-          url: https://github.com/creepy-game/LastHouse.git
+          url: https://github.com/creepy-game/IndieGame1.git
         trackingBranch: 
-      - name: main
+      - name: main2
         remote:
           name: origin
-          url: https://github.com/creepy-game/LastHouse.git
+          url: https://github.com/creepy-game/IndieGame1.git
         trackingBranch: 
-      - name: shuhei_develop
+      - name: shuhei_dev2
         remote:
           name: origin
-          url: https://github.com/creepy-game/LastHouse.git
+          url: https://github.com/creepy-game/IndieGame1.git
         trackingBranch: 
-      - name: shuhei_develop2
+      - name: fix/stage3
         remote:
           name: origin
-          url: https://github.com/creepy-game/LastHouse.git
+          url: https://github.com/creepy-game/IndieGame1.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/creepy-game/LastHouse.git
+      url: https://github.com/creepy-game/IndieGame1.git
