@@ -13,12 +13,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 7
-  lastUpdatedAtString: 2021-09-21T00:42:51.320+09:00
-  initializedAtString: 2021-09-21T00:42:51.320+09:00
-  gitLocks:
-  - id: 971152
-    path: Assets/prefab/orignal/WoodFloor043_1K-JPG/WoodFloor043_1K-JPG.usdc
-    owner:
-      name: Yamaguchi-shuhei
-      email: 
-    lockedAtString: 2021-09-20T15:42:49Z
+  lastUpdatedAtString: 2021-09-23T21:28:37.287+09:00
+  initializedAtString: 2021-09-23T20:09:47.667+09:00
+  gitLocks: []

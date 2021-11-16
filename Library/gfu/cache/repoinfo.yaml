@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-11-16T14:25:20.814+09:00
   initializedAtString: 2021-11-16T14:25:20.814+09:00
+=======
+  lastUpdatedAtString: 2021-11-08T15:42:07.963+09:00
+  initializedAtString: 2021-11-08T15:42:07.963+09:00
+>>>>>>> main2
   currentGitRemote:
     name: origin
     url: https://github.com/creepy-game/IndieGame1.git
@@ -24,6 +29,7 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
+<<<<<<< HEAD
     name: 
     tracking: 
   currentConfigBranch:
@@ -32,6 +38,16 @@ MonoBehaviour:
       name: 
       url: 
     trackingBranch: 
+=======
+    name: main2
+    tracking: origin/main2
+  currentConfigBranch:
+    name: main2
+    remote:
+      name: origin
+      url: https://github.com/creepy-game/IndieGame1.git
+    trackingBranch: main2
+>>>>>>> main2
   currentConfigRemote:
     name: origin
     url: https://github.com/creepy-game/IndieGame1.git
