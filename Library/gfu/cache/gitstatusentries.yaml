@@ -13,786 +13,726 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-09-20T01:49:17.946+09:00
-  initializedAtString: 2021-09-20T01:49:17.946+09:00
+  lastUpdatedAtString: 2021-11-16T14:25:20.830+09:00
+  initializedAtString: 2021-11-16T14:25:20.830+09:00
   entries:
-  - path: Library/ArtifactDB
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/ArtifactDB
-    projectPath: Library/ArtifactDB
+  - path: Assets/SampleScenes.meta
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Assets/SampleScenes.meta
+    projectPath: Assets/SampleScenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library/APIUpdater/project-dependencies.graph
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/APIUpdater/project-dependencies.graph
+    projectPath: Library/APIUpdater/project-dependencies.graph
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/01/011adaf6b779347db2e2d2bef0d23747
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/01/011adaf6b779347db2e2d2bef0d23747
-    projectPath: Library/Artifacts/01/011adaf6b779347db2e2d2bef0d23747
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/03/039709a14a018de48e10817488168410
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/03/039709a14a018de48e10817488168410
-    projectPath: Library/Artifacts/03/039709a14a018de48e10817488168410
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/04/0417dfc8468542d64f6b62ba0e362c70
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/04/0417dfc8468542d64f6b62ba0e362c70
-    projectPath: Library/Artifacts/04/0417dfc8468542d64f6b62ba0e362c70
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/04/0462c116984d79f0bf76216701121b16
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/04/0462c116984d79f0bf76216701121b16
-    projectPath: Library/Artifacts/04/0462c116984d79f0bf76216701121b16
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/04/04adfea384955f706b1ef03f1e757133
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/04/04adfea384955f706b1ef03f1e757133
-    projectPath: Library/Artifacts/04/04adfea384955f706b1ef03f1e757133
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/04/04d960a3d5a992938e5da4fae56b4f2f
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/04/04d960a3d5a992938e5da4fae56b4f2f
-    projectPath: Library/Artifacts/04/04d960a3d5a992938e5da4fae56b4f2f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/05/05e1b374bd9743d8de417405ea356a5c
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/05/05e1b374bd9743d8de417405ea356a5c
-    projectPath: Library/Artifacts/05/05e1b374bd9743d8de417405ea356a5c
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/08/0852639b983e759eb8fcf7476e6725f3
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/08/0852639b983e759eb8fcf7476e6725f3
-    projectPath: Library/Artifacts/08/0852639b983e759eb8fcf7476e6725f3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/09/090e0073b8b537b85bd2c2aef0423b7b
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/09/090e0073b8b537b85bd2c2aef0423b7b
-    projectPath: Library/Artifacts/09/090e0073b8b537b85bd2c2aef0423b7b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/09/09cc99156a8f95cdb249c2be22297c0e
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/09/09cc99156a8f95cdb249c2be22297c0e
-    projectPath: Library/Artifacts/09/09cc99156a8f95cdb249c2be22297c0e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/0d/0d2f94a387b8adbab33033b80c2430b0
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/0d/0d2f94a387b8adbab33033b80c2430b0
-    projectPath: Library/Artifacts/0d/0d2f94a387b8adbab33033b80c2430b0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/0f/0f3be6c9512adfd0b7a6b57b1b14e45a
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/0f/0f3be6c9512adfd0b7a6b57b1b14e45a
-    projectPath: Library/Artifacts/0f/0f3be6c9512adfd0b7a6b57b1b14e45a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/10/106495d20bc735a67b5ea5f67a00eb3b
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/10/106495d20bc735a67b5ea5f67a00eb3b
-    projectPath: Library/Artifacts/10/106495d20bc735a67b5ea5f67a00eb3b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/13/137d5faf360f94e8dfc21f37abff4359
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/13/137d5faf360f94e8dfc21f37abff4359
-    projectPath: Library/Artifacts/13/137d5faf360f94e8dfc21f37abff4359
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/14/1470f0ffcf3a37ce32f0fdfcb930a8b8
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/14/1470f0ffcf3a37ce32f0fdfcb930a8b8
-    projectPath: Library/Artifacts/14/1470f0ffcf3a37ce32f0fdfcb930a8b8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/16/16c0630ae6262e3cc7c2b5f968a85e7f
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/16/16c0630ae6262e3cc7c2b5f968a85e7f
-    projectPath: Library/Artifacts/16/16c0630ae6262e3cc7c2b5f968a85e7f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/17/17d449db23baa37918b360e93f9e74e8
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/17/17d449db23baa37918b360e93f9e74e8
-    projectPath: Library/Artifacts/17/17d449db23baa37918b360e93f9e74e8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/1d/1d25160f616bb2bdfdd289fc43990009
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/1d/1d25160f616bb2bdfdd289fc43990009
-    projectPath: Library/Artifacts/1d/1d25160f616bb2bdfdd289fc43990009
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/1f/1fc194e9403a39a1cbc73ce2f53c753a
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/1f/1fc194e9403a39a1cbc73ce2f53c753a
-    projectPath: Library/Artifacts/1f/1fc194e9403a39a1cbc73ce2f53c753a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/20/2059cf21e014d14f4b3aa4d50aec6866
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/20/2059cf21e014d14f4b3aa4d50aec6866
-    projectPath: Library/Artifacts/20/2059cf21e014d14f4b3aa4d50aec6866
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/23/234383bc183d7f5f78899d0d2d0a7a65
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/23/234383bc183d7f5f78899d0d2d0a7a65
-    projectPath: Library/Artifacts/23/234383bc183d7f5f78899d0d2d0a7a65
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/26/26ea85eb24e2c05cfd2b3fd8b788c112
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/26/26ea85eb24e2c05cfd2b3fd8b788c112
-    projectPath: Library/Artifacts/26/26ea85eb24e2c05cfd2b3fd8b788c112
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/28/28376caff4658a51c1fc4322c8bb1326
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/28/28376caff4658a51c1fc4322c8bb1326
-    projectPath: Library/Artifacts/28/28376caff4658a51c1fc4322c8bb1326
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/2b/2b9b17ee183540cf82b39ffac65f2215
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/2b/2b9b17ee183540cf82b39ffac65f2215
-    projectPath: Library/Artifacts/2b/2b9b17ee183540cf82b39ffac65f2215
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/2c/2c95864b77d7363547472582ae00f113
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/2c/2c95864b77d7363547472582ae00f113
-    projectPath: Library/Artifacts/2c/2c95864b77d7363547472582ae00f113
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/2f/2f978781e846bcda1fe65c7c820a6028
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/2f/2f978781e846bcda1fe65c7c820a6028
-    projectPath: Library/Artifacts/2f/2f978781e846bcda1fe65c7c820a6028
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/2f/2faed24792fd46a7e735e5de21265c6d
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/2f/2faed24792fd46a7e735e5de21265c6d
-    projectPath: Library/Artifacts/2f/2faed24792fd46a7e735e5de21265c6d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/2f/2fea4d71a2ca83acb8b26085bfef4d27
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/2f/2fea4d71a2ca83acb8b26085bfef4d27
-    projectPath: Library/Artifacts/2f/2fea4d71a2ca83acb8b26085bfef4d27
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/32/32fd6c19fed61da44d4d34f87612ffb3
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/32/32fd6c19fed61da44d4d34f87612ffb3
-    projectPath: Library/Artifacts/32/32fd6c19fed61da44d4d34f87612ffb3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/34/340520cc7472440db0f1103e0f7bbd86
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/34/340520cc7472440db0f1103e0f7bbd86
-    projectPath: Library/Artifacts/34/340520cc7472440db0f1103e0f7bbd86
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/34/345a4c1b12cf0adecc16495308815be0
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/34/345a4c1b12cf0adecc16495308815be0
-    projectPath: Library/Artifacts/34/345a4c1b12cf0adecc16495308815be0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/38/3825a2a3a837dfc7c5d84257b9ea1026
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/38/3825a2a3a837dfc7c5d84257b9ea1026
-    projectPath: Library/Artifacts/38/3825a2a3a837dfc7c5d84257b9ea1026
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/38/38cfd5ef18e78c073d1dae414571fda0
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/38/38cfd5ef18e78c073d1dae414571fda0
-    projectPath: Library/Artifacts/38/38cfd5ef18e78c073d1dae414571fda0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/39/399ac8dd6f7008d82c40f5354ab1da57
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/39/399ac8dd6f7008d82c40f5354ab1da57
-    projectPath: Library/Artifacts/39/399ac8dd6f7008d82c40f5354ab1da57
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/3b/3bbddeb579e586c9abbe014f91058869
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/3b/3bbddeb579e586c9abbe014f91058869
-    projectPath: Library/Artifacts/3b/3bbddeb579e586c9abbe014f91058869
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/3b/3be074f99d9a8522ae9d25c8e3e04971
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/3b/3be074f99d9a8522ae9d25c8e3e04971
-    projectPath: Library/Artifacts/3b/3be074f99d9a8522ae9d25c8e3e04971
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/3e/3e7aac8399be6e25935f7b276b7a0e87
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/3e/3e7aac8399be6e25935f7b276b7a0e87
-    projectPath: Library/Artifacts/3e/3e7aac8399be6e25935f7b276b7a0e87
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/3f/3f0bef296d05432856ba7ec34165456e
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/3f/3f0bef296d05432856ba7ec34165456e
-    projectPath: Library/Artifacts/3f/3f0bef296d05432856ba7ec34165456e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/3f/3f2f7bc4122dd92424cd7c744f58768b
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/3f/3f2f7bc4122dd92424cd7c744f58768b
-    projectPath: Library/Artifacts/3f/3f2f7bc4122dd92424cd7c744f58768b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/46/46b35aeb15e30b642d1a550d9aadf6b0
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/46/46b35aeb15e30b642d1a550d9aadf6b0
-    projectPath: Library/Artifacts/46/46b35aeb15e30b642d1a550d9aadf6b0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/4b/4be66a76b1f4109e01c11f836aa2493a
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/4b/4be66a76b1f4109e01c11f836aa2493a
-    projectPath: Library/Artifacts/4b/4be66a76b1f4109e01c11f836aa2493a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/54/54c8be760a53fcae1a6c02e872940a84
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/54/54c8be760a53fcae1a6c02e872940a84
-    projectPath: Library/Artifacts/54/54c8be760a53fcae1a6c02e872940a84
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/59/598a7488865c3423d93df76886d5ce06
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/59/598a7488865c3423d93df76886d5ce06
-    projectPath: Library/Artifacts/59/598a7488865c3423d93df76886d5ce06
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/5f/5fdb6fae1922aa238b35539a23d60a46
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/5f/5fdb6fae1922aa238b35539a23d60a46
-    projectPath: Library/Artifacts/5f/5fdb6fae1922aa238b35539a23d60a46
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/60/6036dcd5fad8b7fa07541b91e5f5aeb8
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/60/6036dcd5fad8b7fa07541b91e5f5aeb8
-    projectPath: Library/Artifacts/60/6036dcd5fad8b7fa07541b91e5f5aeb8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/61/611c9325beb7a5e77f094ac8f3f79ebc
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/61/611c9325beb7a5e77f094ac8f3f79ebc
-    projectPath: Library/Artifacts/61/611c9325beb7a5e77f094ac8f3f79ebc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/64/641009394c33a6686e633381c7ef0398
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/64/641009394c33a6686e633381c7ef0398
-    projectPath: Library/Artifacts/64/641009394c33a6686e633381c7ef0398
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/64/64fd82201435f4f03b8235d8ce6d8889
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/64/64fd82201435f4f03b8235d8ce6d8889
-    projectPath: Library/Artifacts/64/64fd82201435f4f03b8235d8ce6d8889
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/65/652473983756055ee81c436730881a56
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/65/652473983756055ee81c436730881a56
-    projectPath: Library/Artifacts/65/652473983756055ee81c436730881a56
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/67/6747b12f3c4e7fc0c40c2e23ae9161a9
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/67/6747b12f3c4e7fc0c40c2e23ae9161a9
-    projectPath: Library/Artifacts/67/6747b12f3c4e7fc0c40c2e23ae9161a9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/73/7335323b317925047b4fe06dc7bf9aa1
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/73/7335323b317925047b4fe06dc7bf9aa1
-    projectPath: Library/Artifacts/73/7335323b317925047b4fe06dc7bf9aa1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/75/7551144dd62f6a5e98fc067035d146cc
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/75/7551144dd62f6a5e98fc067035d146cc
-    projectPath: Library/Artifacts/75/7551144dd62f6a5e98fc067035d146cc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/7a/7afa2a82273b7416d9e8fd4c9310159b
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/7a/7afa2a82273b7416d9e8fd4c9310159b
-    projectPath: Library/Artifacts/7a/7afa2a82273b7416d9e8fd4c9310159b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/7d/7d5f58e07ff2254537017e18a47a6b32
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/7d/7d5f58e07ff2254537017e18a47a6b32
-    projectPath: Library/Artifacts/7d/7d5f58e07ff2254537017e18a47a6b32
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/7d/7d7f81c2920927e54f6bc1a8e07fe460
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/7d/7d7f81c2920927e54f6bc1a8e07fe460
-    projectPath: Library/Artifacts/7d/7d7f81c2920927e54f6bc1a8e07fe460
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/7f/7f80dcbc038d4e898fbc79d6545ea55a
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/7f/7f80dcbc038d4e898fbc79d6545ea55a
-    projectPath: Library/Artifacts/7f/7f80dcbc038d4e898fbc79d6545ea55a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/83/835982d8878ad7f3daa7d0b46e0d2c49
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/83/835982d8878ad7f3daa7d0b46e0d2c49
-    projectPath: Library/Artifacts/83/835982d8878ad7f3daa7d0b46e0d2c49
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/85/85565e1fcb3148e1c3d1d37d1e9442c9
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/85/85565e1fcb3148e1c3d1d37d1e9442c9
-    projectPath: Library/Artifacts/85/85565e1fcb3148e1c3d1d37d1e9442c9
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/85/85770b0597426619dce1d7e303ed1b66
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/85/85770b0597426619dce1d7e303ed1b66
-    projectPath: Library/Artifacts/85/85770b0597426619dce1d7e303ed1b66
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/86/8623298109d2612556e12b45bff96403
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/86/8623298109d2612556e12b45bff96403
-    projectPath: Library/Artifacts/86/8623298109d2612556e12b45bff96403
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/87/870462c490e8f8ebd50893d0e04b1ecd
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/87/870462c490e8f8ebd50893d0e04b1ecd
-    projectPath: Library/Artifacts/87/870462c490e8f8ebd50893d0e04b1ecd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/87/87d9ad69dbb15a8a3d6b6e9f02ed21d7
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/87/87d9ad69dbb15a8a3d6b6e9f02ed21d7
-    projectPath: Library/Artifacts/87/87d9ad69dbb15a8a3d6b6e9f02ed21d7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/88/88816de19114f35b6475244118df3a17
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/88/88816de19114f35b6475244118df3a17
-    projectPath: Library/Artifacts/88/88816de19114f35b6475244118df3a17
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/88/88a93332ec91b4a4d1b0fc1e2e13a8e3
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/88/88a93332ec91b4a4d1b0fc1e2e13a8e3
-    projectPath: Library/Artifacts/88/88a93332ec91b4a4d1b0fc1e2e13a8e3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/88/88c9a72e28bf83d681f9c65897386902
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/88/88c9a72e28bf83d681f9c65897386902
-    projectPath: Library/Artifacts/88/88c9a72e28bf83d681f9c65897386902
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/8a/8a6d707fec769ad184ac7c2d57184552
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/8a/8a6d707fec769ad184ac7c2d57184552
-    projectPath: Library/Artifacts/8a/8a6d707fec769ad184ac7c2d57184552
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/8a/8ab085b9c69dcf4993c7fe090b36a557
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/8a/8ab085b9c69dcf4993c7fe090b36a557
-    projectPath: Library/Artifacts/8a/8ab085b9c69dcf4993c7fe090b36a557
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/8d/8ddb237c514e56df004434fdb0caeb96
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/8d/8ddb237c514e56df004434fdb0caeb96
-    projectPath: Library/Artifacts/8d/8ddb237c514e56df004434fdb0caeb96
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/8e/8e5ec0bde62fa02e9444570ecac39e32
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/8e/8e5ec0bde62fa02e9444570ecac39e32
-    projectPath: Library/Artifacts/8e/8e5ec0bde62fa02e9444570ecac39e32
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/8e/8e97e412d63895951cb8ed83489949b7
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/8e/8e97e412d63895951cb8ed83489949b7
-    projectPath: Library/Artifacts/8e/8e97e412d63895951cb8ed83489949b7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/8f/8f60cd066923da14bbc31d720e50ce44
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/8f/8f60cd066923da14bbc31d720e50ce44
-    projectPath: Library/Artifacts/8f/8f60cd066923da14bbc31d720e50ce44
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/94/948ab8c22e5dd76dce3a22cdc48ab52f
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/94/948ab8c22e5dd76dce3a22cdc48ab52f
-    projectPath: Library/Artifacts/94/948ab8c22e5dd76dce3a22cdc48ab52f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/94/94bc26a0673d1f37acd342ce290f248d
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/94/94bc26a0673d1f37acd342ce290f248d
-    projectPath: Library/Artifacts/94/94bc26a0673d1f37acd342ce290f248d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/97/9772c4b3ebe0eb27f8bcf36c8c7fd747
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/97/9772c4b3ebe0eb27f8bcf36c8c7fd747
-    projectPath: Library/Artifacts/97/9772c4b3ebe0eb27f8bcf36c8c7fd747
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/97/97d79ba96da1559f72ee7247a88b33d4
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/97/97d79ba96da1559f72ee7247a88b33d4
-    projectPath: Library/Artifacts/97/97d79ba96da1559f72ee7247a88b33d4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/98/983eaaa156660ed265a5ae9d24541f25
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/98/983eaaa156660ed265a5ae9d24541f25
-    projectPath: Library/Artifacts/98/983eaaa156660ed265a5ae9d24541f25
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/99/99a27d3a0138b34fc62d9152deef4cd7
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/99/99a27d3a0138b34fc62d9152deef4cd7
-    projectPath: Library/Artifacts/99/99a27d3a0138b34fc62d9152deef4cd7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/9a/9ad599057c3e7b43cfa53c67dd2fe001
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/9a/9ad599057c3e7b43cfa53c67dd2fe001
-    projectPath: Library/Artifacts/9a/9ad599057c3e7b43cfa53c67dd2fe001
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/9c/9cf302340fc62f06dcc5634338436c2d
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/9c/9cf302340fc62f06dcc5634338436c2d
-    projectPath: Library/Artifacts/9c/9cf302340fc62f06dcc5634338436c2d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/9f/9f4e4d7986130c460f88c65a5ff75d36
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/9f/9f4e4d7986130c460f88c65a5ff75d36
-    projectPath: Library/Artifacts/9f/9f4e4d7986130c460f88c65a5ff75d36
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/a0/a03e391dd25cf194688e79eea51605f2
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/a0/a03e391dd25cf194688e79eea51605f2
-    projectPath: Library/Artifacts/a0/a03e391dd25cf194688e79eea51605f2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/a1/a12afe0884de890f0f9928d04e5ad090
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/a1/a12afe0884de890f0f9928d04e5ad090
-    projectPath: Library/Artifacts/a1/a12afe0884de890f0f9928d04e5ad090
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/a2/a2a6b20ee0b0a8fb2a6a0c36b94c0f9e
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/a2/a2a6b20ee0b0a8fb2a6a0c36b94c0f9e
-    projectPath: Library/Artifacts/a2/a2a6b20ee0b0a8fb2a6a0c36b94c0f9e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/a3/a39d81ff09dacdb9202dc31e300349c3
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/a3/a39d81ff09dacdb9202dc31e300349c3
-    projectPath: Library/Artifacts/a3/a39d81ff09dacdb9202dc31e300349c3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/a7/a7f7f4b0f794b898cb32651dc7db1bbf
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/a7/a7f7f4b0f794b898cb32651dc7db1bbf
-    projectPath: Library/Artifacts/a7/a7f7f4b0f794b898cb32651dc7db1bbf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/a9/a92a11245a74fb7ba4c27f58e351516d
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/a9/a92a11245a74fb7ba4c27f58e351516d
-    projectPath: Library/Artifacts/a9/a92a11245a74fb7ba4c27f58e351516d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/aa/aa4455e789af6a5afeb14bef896b3884
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/aa/aa4455e789af6a5afeb14bef896b3884
-    projectPath: Library/Artifacts/aa/aa4455e789af6a5afeb14bef896b3884
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/ad/ad423eff1b4a5eaff20d17d460a5d748
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/ad/ad423eff1b4a5eaff20d17d460a5d748
-    projectPath: Library/Artifacts/ad/ad423eff1b4a5eaff20d17d460a5d748
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/ad/ad82d0c54d8bcbccfca04f6531568068
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/ad/ad82d0c54d8bcbccfca04f6531568068
-    projectPath: Library/Artifacts/ad/ad82d0c54d8bcbccfca04f6531568068
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/b0/b07440772955067460482b450c43b259
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/b0/b07440772955067460482b450c43b259
-    projectPath: Library/Artifacts/b0/b07440772955067460482b450c43b259
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/b1/b132d7ba250868ece2a508e1f7f5f9db
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/b1/b132d7ba250868ece2a508e1f7f5f9db
-    projectPath: Library/Artifacts/b1/b132d7ba250868ece2a508e1f7f5f9db
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/b1/b15731cc09f09599566b35a92fc375fe
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/b1/b15731cc09f09599566b35a92fc375fe
-    projectPath: Library/Artifacts/b1/b15731cc09f09599566b35a92fc375fe
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/b2/b28d9dea42d50ac4344264baf7decee3
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/b2/b28d9dea42d50ac4344264baf7decee3
-    projectPath: Library/Artifacts/b2/b28d9dea42d50ac4344264baf7decee3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/b6/b68bf6742acbf3e9ffe9e3b3f9e36107
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/b6/b68bf6742acbf3e9ffe9e3b3f9e36107
-    projectPath: Library/Artifacts/b6/b68bf6742acbf3e9ffe9e3b3f9e36107
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/b7/b7aa06323295b9653128c4d2d273304d
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/b7/b7aa06323295b9653128c4d2d273304d
-    projectPath: Library/Artifacts/b7/b7aa06323295b9653128c4d2d273304d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/bd/bd15ef5c2575fa4f2e50720098fc4798
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/bd/bd15ef5c2575fa4f2e50720098fc4798
-    projectPath: Library/Artifacts/bd/bd15ef5c2575fa4f2e50720098fc4798
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/c0/c04a157729f18f090598e1efdf0fdcad
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/c0/c04a157729f18f090598e1efdf0fdcad
-    projectPath: Library/Artifacts/c0/c04a157729f18f090598e1efdf0fdcad
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/c5/c586f6192e213f11001e26e5d32c59fc
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/c5/c586f6192e213f11001e26e5d32c59fc
-    projectPath: Library/Artifacts/c5/c586f6192e213f11001e26e5d32c59fc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/c6/c6dbfa4cd496eda776e9b61e4ead5345
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/c6/c6dbfa4cd496eda776e9b61e4ead5345
-    projectPath: Library/Artifacts/c6/c6dbfa4cd496eda776e9b61e4ead5345
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/c6/c6e189b7b15c11e68e828e6cc7982024
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/c6/c6e189b7b15c11e68e828e6cc7982024
-    projectPath: Library/Artifacts/c6/c6e189b7b15c11e68e828e6cc7982024
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/cb/cb5284fbcc5700dcd2d07cefddd24685
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/cb/cb5284fbcc5700dcd2d07cefddd24685
-    projectPath: Library/Artifacts/cb/cb5284fbcc5700dcd2d07cefddd24685
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/ce/ceaa19cfb9f3c8c7c5fb783a9c49523a
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/ce/ceaa19cfb9f3c8c7c5fb783a9c49523a
-    projectPath: Library/Artifacts/ce/ceaa19cfb9f3c8c7c5fb783a9c49523a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/d0/d0e3c35bcfcb48d2afa6178c04faffea
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/d0/d0e3c35bcfcb48d2afa6178c04faffea
-    projectPath: Library/Artifacts/d0/d0e3c35bcfcb48d2afa6178c04faffea
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/d5/d5cf45b8351e3f92060cfaf6ae65d0e5
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/d5/d5cf45b8351e3f92060cfaf6ae65d0e5
-    projectPath: Library/Artifacts/d5/d5cf45b8351e3f92060cfaf6ae65d0e5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/d6/d6607ab1cbe8618d3f5a7098f55830ad
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/d6/d6607ab1cbe8618d3f5a7098f55830ad
-    projectPath: Library/Artifacts/d6/d6607ab1cbe8618d3f5a7098f55830ad
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/d9/d9fcd70548c1c85be241fcf4854428e8
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/d9/d9fcd70548c1c85be241fcf4854428e8
-    projectPath: Library/Artifacts/d9/d9fcd70548c1c85be241fcf4854428e8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/dc/dc365d773c811bdf0fa4f7e8eb6dfbde
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/dc/dc365d773c811bdf0fa4f7e8eb6dfbde
-    projectPath: Library/Artifacts/dc/dc365d773c811bdf0fa4f7e8eb6dfbde
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/dd/dd27131910f15dae623c362680ed3a50
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/dd/dd27131910f15dae623c362680ed3a50
-    projectPath: Library/Artifacts/dd/dd27131910f15dae623c362680ed3a50
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/dd/dd5d8f5d60107fb0d890e083d584f7e6
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/dd/dd5d8f5d60107fb0d890e083d584f7e6
-    projectPath: Library/Artifacts/dd/dd5d8f5d60107fb0d890e083d584f7e6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/dd/dd842d5c800a1667d88701ee6fcdc79f
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/dd/dd842d5c800a1667d88701ee6fcdc79f
-    projectPath: Library/Artifacts/dd/dd842d5c800a1667d88701ee6fcdc79f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/e0/e0bbaaafce43428173e64d9521dd415d
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/e0/e0bbaaafce43428173e64d9521dd415d
-    projectPath: Library/Artifacts/e0/e0bbaaafce43428173e64d9521dd415d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/ed/ed40f9a05573a95386d5dcfb3aa34ba8
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/ed/ed40f9a05573a95386d5dcfb3aa34ba8
-    projectPath: Library/Artifacts/ed/ed40f9a05573a95386d5dcfb3aa34ba8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/f8/f8d2ed2a4a82815e7b25148c221de46d
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/f8/f8d2ed2a4a82815e7b25148c221de46d
-    projectPath: Library/Artifacts/f8/f8d2ed2a4a82815e7b25148c221de46d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/f9/f9f280d603289853a6012a7695655818
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/f9/f9f280d603289853a6012a7695655818
-    projectPath: Library/Artifacts/f9/f9f280d603289853a6012a7695655818
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/fa/fa02f65069a5ac124dd0e573ee81e602
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/fa/fa02f65069a5ac124dd0e573ee81e602
-    projectPath: Library/Artifacts/fa/fa02f65069a5ac124dd0e573ee81e602
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/fc/fc050ee0f031653ff7520b584e62555f
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/fc/fc050ee0f031653ff7520b584e62555f
-    projectPath: Library/Artifacts/fc/fc050ee0f031653ff7520b584e62555f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/Artifacts/fc/fc5ccd4ea91cc99c99278b26b3a63816
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/Artifacts/fc/fc5ccd4ea91cc99c99278b26b3a63816
-    projectPath: Library/Artifacts/fc/fc5ccd4ea91cc99c99278b26b3a63816
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library/EditorInstance.json
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/EditorInstance.json
-    projectPath: Library/EditorInstance.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library/PackageManager/ProjectCache
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/PackageManager/ProjectCache
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/PackageManager/ProjectCache
     projectPath: Library/PackageManager/ProjectCache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library/PackageManager/ProjectCache.md5
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/PackageManager/ProjectCache.md5
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/PackageManager/ProjectCache.md5
     projectPath: Library/PackageManager/ProjectCache.md5
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Library/SceneVisibilityState.asset
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/SceneVisibilityState.asset
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/SceneVisibilityState.asset
     projectPath: Library/SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/SourceAssetDB
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Library/SourceAssetDB
-    projectPath: Library/SourceAssetDB
+  - path: Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs/AssetImportWorker0.log
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Logs/AssetImportWorker0.log
-    projectPath: Logs/AssetImportWorker0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/AssetImportWorker0-prev.log
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Logs/AssetImportWorker0-prev.log
-    projectPath: Logs/AssetImportWorker0-prev.log
+  - path: Library/ScriptAssemblies/Assembly-CSharp.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Assembly-CSharp.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.pdb
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Logs/shadercompiler-AssetImportWorker0.log
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Logs/shadercompiler-AssetImportWorker0.log
-    projectPath: Logs/shadercompiler-AssetImportWorker0.log
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-firstpass.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Assembly-CSharp-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Logs/shadercompiler-UnityShaderCompiler1.log
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Logs/shadercompiler-UnityShaderCompiler1.log
-    projectPath: Logs/shadercompiler-UnityShaderCompiler1.log
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/shadercompiler-UnityShaderCompiler2.log
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Logs/shadercompiler-UnityShaderCompiler2.log
-    projectPath: Logs/shadercompiler-UnityShaderCompiler2.log
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Logs/shadercompiler-UnityShaderCompiler3.log
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Logs/shadercompiler-UnityShaderCompiler3.log
-    projectPath: Logs/shadercompiler-UnityShaderCompiler3.log
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: Temp/workerlic
-    fullPath: /Users/yamaguchishuuhei/IndieGame1/Temp/workerlic
-    projectPath: Temp/workerlic
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.PlasticSCM.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.PlasticSCM.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Csg.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Csg.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Csg.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Csg.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Csg.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Csg.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Examples.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Examples.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Examples.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Examples.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Examples.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Examples.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Examples.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Examples.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Examples.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Examples.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Examples.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Examples.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.KdTree.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.KdTree.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.KdTree.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.KdTree.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.KdTree.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.KdTree.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Poly2Tri.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Poly2Tri.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Poly2Tri.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Poly2Tri.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Poly2Tri.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Poly2Tri.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Stl.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Stl.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Stl.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Stl.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Stl.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Stl.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Settings.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Settings.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Settings.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Settings.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Settings.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Settings.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Timeline.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Timeline.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.UI.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEditor.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.UI.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEditor.UI.pdb
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEngine.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEngine.UI.pdb
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ShaderCache/EditorEncounteredVariants
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ShaderCache/EditorEncounteredVariants
+    projectPath: Library/ShaderCache/EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Style.catalog
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/Style.catalog
+    projectPath: Library/Style.catalog
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    projectPath: Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Assembly-CSharp.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Assembly-CSharp.dll.hash
+    projectPath: Temp/Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Assembly-CSharp-firstpass.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Assembly-CSharp-firstpass.dll.hash
+    projectPath: Temp/Assembly-CSharp-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/CompilationLog.txt
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/CompilationLog.txt
+    projectPath: Temp/CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.CollabProxy.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp/Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.PlasticSCM.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.PlasticSCM.Editor.dll.hash
+    projectPath: Temp/Unity.PlasticSCM.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.ProBuilder.AddOns.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.AddOns.Editor.dll.hash
+    projectPath: Temp/Unity.ProBuilder.AddOns.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.ProBuilder.AssetIdRemapUtility.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.AssetIdRemapUtility.dll.hash
+    projectPath: Temp/Unity.ProBuilder.AssetIdRemapUtility.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.ProBuilder.Csg.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.Csg.dll.hash
+    projectPath: Temp/Unity.ProBuilder.Csg.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.ProBuilder.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.dll.hash
+    projectPath: Temp/Unity.ProBuilder.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.ProBuilder.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.Editor.dll.hash
+    projectPath: Temp/Unity.ProBuilder.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.ProBuilder.Examples.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.Examples.dll.hash
+    projectPath: Temp/Unity.ProBuilder.Examples.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.ProBuilder.Examples.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.Examples.Editor.dll.hash
+    projectPath: Temp/Unity.ProBuilder.Examples.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.ProBuilder.KdTree.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.KdTree.dll.hash
+    projectPath: Temp/Unity.ProBuilder.KdTree.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.ProBuilder.Poly2Tri.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.Poly2Tri.dll.hash
+    projectPath: Temp/Unity.ProBuilder.Poly2Tri.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.ProBuilder.Stl.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.Stl.dll.hash
+    projectPath: Temp/Unity.ProBuilder.Stl.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.Rider.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.Rider.Editor.dll.hash
+    projectPath: Temp/Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.Settings.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.Settings.Editor.dll.hash
+    projectPath: Temp/Unity.Settings.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.TextMeshPro.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.TextMeshPro.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.TextMeshPro.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.Timeline.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.Timeline.dll.hash
+    projectPath: Temp/Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.Timeline.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.Timeline.Editor.dll.hash
+    projectPath: Temp/Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.VisualStudio.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp/Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Unity.VSCode.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.VSCode.Editor.dll.hash
+    projectPath: Temp/Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityEditor.TestRunner.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityEditor.TestRunner.dll.hash
+    projectPath: Temp/UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityEditor.UI.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityEditor.UI.dll.hash
+    projectPath: Temp/UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityEngine.TestRunner.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityEngine.TestRunner.dll.hash
+    projectPath: Temp/UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityEngine.UI.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityEngine.UI.dll.hash
+    projectPath: Temp/UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-10c419f5df6694cb6ba5c6f8748b83d2
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-10c419f5df6694cb6ba5c6f8748b83d2
+    projectPath: Temp/UnityTempFile-10c419f5df6694cb6ba5c6f8748b83d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-13bd36bcb723144a686b6321915d6ed9
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-13bd36bcb723144a686b6321915d6ed9
+    projectPath: Temp/UnityTempFile-13bd36bcb723144a686b6321915d6ed9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-24b405e5c620744488f01adbbd9f1848
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-24b405e5c620744488f01adbbd9f1848
+    projectPath: Temp/UnityTempFile-24b405e5c620744488f01adbbd9f1848
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-28a92660bb2a64f468d7c3ec3c8f3367
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-28a92660bb2a64f468d7c3ec3c8f3367
+    projectPath: Temp/UnityTempFile-28a92660bb2a64f468d7c3ec3c8f3367
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-29ab1bf2c6641414a83712d3e385725c
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-29ab1bf2c6641414a83712d3e385725c
+    projectPath: Temp/UnityTempFile-29ab1bf2c6641414a83712d3e385725c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-3b30c0f1cf8e64d549d9beafddcdf98a
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-3b30c0f1cf8e64d549d9beafddcdf98a
+    projectPath: Temp/UnityTempFile-3b30c0f1cf8e64d549d9beafddcdf98a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-3dc6fd005565448c693628efe6b41f30
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-3dc6fd005565448c693628efe6b41f30
+    projectPath: Temp/UnityTempFile-3dc6fd005565448c693628efe6b41f30
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-46941ec7d6384464892fc3e418356e24
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-46941ec7d6384464892fc3e418356e24
+    projectPath: Temp/UnityTempFile-46941ec7d6384464892fc3e418356e24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-492cfa1a191c14868b0351950ca9b36a
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-492cfa1a191c14868b0351950ca9b36a
+    projectPath: Temp/UnityTempFile-492cfa1a191c14868b0351950ca9b36a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-56da412d06aad4c82a97f3364b5c0d0f
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-56da412d06aad4c82a97f3364b5c0d0f
+    projectPath: Temp/UnityTempFile-56da412d06aad4c82a97f3364b5c0d0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-60c35e94ebad64b5d8283adaeb6f46b3
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-60c35e94ebad64b5d8283adaeb6f46b3
+    projectPath: Temp/UnityTempFile-60c35e94ebad64b5d8283adaeb6f46b3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-65592956f948d41d99e337a4989ebf41
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-65592956f948d41d99e337a4989ebf41
+    projectPath: Temp/UnityTempFile-65592956f948d41d99e337a4989ebf41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-701ebe5c0ab6346e3998d1770a515a0d
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-701ebe5c0ab6346e3998d1770a515a0d
+    projectPath: Temp/UnityTempFile-701ebe5c0ab6346e3998d1770a515a0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-79e164cc4fc214e508fe767c971960ce
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-79e164cc4fc214e508fe767c971960ce
+    projectPath: Temp/UnityTempFile-79e164cc4fc214e508fe767c971960ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7f60cf495ec804d1094e601264b08653
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-7f60cf495ec804d1094e601264b08653
+    projectPath: Temp/UnityTempFile-7f60cf495ec804d1094e601264b08653
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-80bd175ebd37b40f6822c66b524491c6
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-80bd175ebd37b40f6822c66b524491c6
+    projectPath: Temp/UnityTempFile-80bd175ebd37b40f6822c66b524491c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-8146e226e741649669abdd2fdc956a7b
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-8146e226e741649669abdd2fdc956a7b
+    projectPath: Temp/UnityTempFile-8146e226e741649669abdd2fdc956a7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-83d0874dea3704ea9852f2bd56fbb64b
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-83d0874dea3704ea9852f2bd56fbb64b
+    projectPath: Temp/UnityTempFile-83d0874dea3704ea9852f2bd56fbb64b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-930b443f046854b9d8ac0c140877d4f2
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-930b443f046854b9d8ac0c140877d4f2
+    projectPath: Temp/UnityTempFile-930b443f046854b9d8ac0c140877d4f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-98bcceb7e320f4b72bee6fdd96de6604
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-98bcceb7e320f4b72bee6fdd96de6604
+    projectPath: Temp/UnityTempFile-98bcceb7e320f4b72bee6fdd96de6604
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9c445d0411ac6423d9b0e9af81b8a1c1
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-9c445d0411ac6423d9b0e9af81b8a1c1
+    projectPath: Temp/UnityTempFile-9c445d0411ac6423d9b0e9af81b8a1c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9fda9806c9e084e2eb8ae392cab3cf21
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-9fda9806c9e084e2eb8ae392cab3cf21
+    projectPath: Temp/UnityTempFile-9fda9806c9e084e2eb8ae392cab3cf21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a0516b12d63e1494989f672d04c7bfbe
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-a0516b12d63e1494989f672d04c7bfbe
+    projectPath: Temp/UnityTempFile-a0516b12d63e1494989f672d04c7bfbe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-bec149a5ddd11466389ade28b8e9f2ec
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-bec149a5ddd11466389ade28b8e9f2ec
+    projectPath: Temp/UnityTempFile-bec149a5ddd11466389ade28b8e9f2ec
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d351ce3ffa68140308c81ae2c2c7f4ef
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-d351ce3ffa68140308c81ae2c2c7f4ef
+    projectPath: Temp/UnityTempFile-d351ce3ffa68140308c81ae2c2c7f4ef
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d94ed1083fc5844b093b4656f144ec7b
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-d94ed1083fc5844b093b4656f144ec7b
+    projectPath: Temp/UnityTempFile-d94ed1083fc5844b093b4656f144ec7b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-da825ee4fa7b740299f029f75453c32f
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-da825ee4fa7b740299f029f75453c32f
+    projectPath: Temp/UnityTempFile-da825ee4fa7b740299f029f75453c32f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
