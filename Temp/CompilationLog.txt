@@ -1,18 +1,50 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1a8783265214e4ac88c9ae3f7a9dc64c
 # Starting compiling UnityEngine.UI.dll
-/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8a80f2c2859474c6892b7674f921c4d6
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-51e02ed22ea344af68e2998df54fc2c5
+# Starting compiling UnityEditor.TestRunner.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-055a3ef33877d473cb7a23cf4bb6363a
 # Starting compiling UnityEditor.UI.dll
-/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c655f2c4db5cc426782870afdd9fc1f2
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0430e7f0844f649bd8e52b1fc963d8c6
 # Starting compiling Unity.ProBuilder.KdTree.dll
-/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-197b549d72ee94b16b752befef045da6
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ec388359f2e4e4f6fb2f482be836b98c
 # Starting compiling Unity.VSCode.Editor.dll
-/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ee2152460e9584dd38c1d9cfc59144d0
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5b91c8c71ed1d488ea06a1b70dc157b7
 # Starting compiling Unity.ProBuilder.AssetIdRemapUtility.dll
-/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-64ed2021a9c994a6cafdb4ba1dcb5d90
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a4a6444d56bf148b880f1576b3b31faf
 # Starting compiling Unity.ProBuilder.Stl.dll
-/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9e3c0a9b2635a4e6abe444e2a0e7ccde
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-37368ccfdeda0480f92fbaa1e7fc0d0a
 # Starting compiling Unity.VisualStudio.Editor.dll
-/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-afc48389f544d42679d480460fbbff56
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8d7abccb35621453ba5457781a048c99
+# Starting compiling Unity.Settings.Editor.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-75636b58c103b409fb334908c90b4dc2
+# Starting compiling Unity.Timeline.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cc07cb946a31f4c09996f91aaf45b73f
+# Starting compiling Unity.TextMeshPro.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-25568f7744c804ceeb682a859d87db89
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-238a6aeda1e314f96a5a3d17c0674702
 # Starting compiling Unity.ProBuilder.Csg.dll
-/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c0ffef35bb9d8478cb3118459582989f
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6fbf5c72b2565487a8fb7b806fb4ddbf
+# Starting compiling Unity.Timeline.Editor.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-110c2c302daaa4e6fbe5c3e99aab4cbe
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-af7a239288b8d4304ba03c5d31f39588
+# Starting compiling Unity.Rider.Editor.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cbd45cba186524817af810dfecd554d7
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3307ec8b31fc746efb566dec8a433be3
 # Starting compiling Unity.ProBuilder.Poly2Tri.dll
-/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ac8dae4de2ae14e4ba31b08ee704d60b
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-53efb1b2adc674495b6cde993dab8824
+# Starting compiling Unity.ProBuilder.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8dc3166f3832d4c77a4e4f2fb946dcd2
+# Starting compiling Unity.ProBuilder.Editor.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-148df6057e7b740bca6dbc458f3d70cf
+# Starting compiling Unity.ProBuilder.AddOns.Editor.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-42c93f47510f2476db015619b2f78425
+# Starting compiling Assembly-CSharp-firstpass.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7dd7d362f1078456eb77cf5f52fd30c7
+# Starting compiling Assembly-CSharp.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2af5bfcd68c5d4fc4bf64116d5045813
+# Starting compiling Assembly-CSharp-Editor-firstpass.dll
+/Volumes/SunDisk/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fc708758cc420457ab9d2c6c399080b8
