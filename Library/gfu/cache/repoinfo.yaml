@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-11-16T14:25:20.814+09:00
-  initializedAtString: 2021-11-16T14:25:20.814+09:00
+  lastUpdatedAtString: 2021-12-07T15:11:53.556+09:00
+  initializedAtString: 2021-12-07T15:11:53.556+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/creepy-game/IndieGame1.git
@@ -24,10 +24,10 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: 
+    name: feature/stage2
     tracking: 
   currentConfigBranch:
-    name: 
+    name: feature/stage2
     remote:
       name: 
       url: 
