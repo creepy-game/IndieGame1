@@ -1,0 +1,2 @@
+/Volumes/SunDisk/Unity/Games/IndieGame1/obj/Debug/Unity.ProBuilder.Examples.Editor.csproj.AssemblyReference.cache
+/Volumes/SunDisk/Unity/Games/IndieGame1/obj/Debug/Unity.ProBuilder.Examples.Editor.csproj.CoreCompileInputs.cache
