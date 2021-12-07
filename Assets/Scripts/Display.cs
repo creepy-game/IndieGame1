@@ -49,13 +49,7 @@ public class Display : MonoBehaviour
                 
 
             }
-
         }
-       
-
-
-
-
     }
     void OnMouseExit()
     {
