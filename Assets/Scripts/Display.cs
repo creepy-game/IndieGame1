@@ -7,19 +7,24 @@ using UnityStandardAssets.Characters.FirstPerson;
 public class Display : MonoBehaviour
 {
     public float TheDistance;
+    [Header("Cmd")]
     public GameObject CmdFindText;
     public GameObject CmdReturnText;
+    public GameObject ThePlayer;
+
+    [Header("Item")]
     public GameObject Item;
     public GameObject Expalain;
     public GameObject Picture;
-    public GameObject ThePlayer;
-    public GameObject FirstPersonController;
-    [Header("アイテムを使う場合のみ設定")]
+    public GameObject Light;
+    bool aa;
+    bool key = false;
+
     public GameObject TextBox;
     [SerializeField, Multiline]
     string getItemMessage = "";
-    bool aa = true;
 
+ 
     void Update()
     {
         TheDistance = PlayerCasting.DistanceFromTarget;
@@ -53,7 +58,8 @@ public class Display : MonoBehaviour
                 ThePlayer.GetComponent<FirstPersonController>().enabled = false;
                 aa = false;
                 TextBox.GetComponent<Text>().text = getItemMessage;
-
+                Light.SetActive(false);
+                key = true;
             }
         }
     }
