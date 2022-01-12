@@ -14,7 +14,7 @@ public class Display : MonoBehaviour
     public GameObject Picture;
     public GameObject ThePlayer;
     public GameObject FirstPersonController;
-    //bool aa;
+    bool aa = true;
 
     void Update()
     {
@@ -26,13 +26,14 @@ public class Display : MonoBehaviour
             CmdReturnText.SetActive(false);
             ThePlayer.GetComponent<FirstPersonController>().enabled = true;
             CmdFindText.SetActive(false);
+            aa = true;
         }
         
     }
 
     void OnMouseOver()
     {
-        if (TheDistance <= 10) //&& aa == false)
+        if (TheDistance <= 10 && aa)
         {
             CmdFindText.SetActive(true);
         }
@@ -46,14 +47,12 @@ public class Display : MonoBehaviour
                 Picture.SetActive(true);
                 CmdReturnText.SetActive(true);
                 ThePlayer.GetComponent<FirstPersonController>().enabled = false;
-                //aa = true;
+                aa = false;
             }
-            //aa = false;
         }
     }
     void OnMouseExit()
     {
-        //aa = false;
         CmdFindText.SetActive(false);
 
     }
