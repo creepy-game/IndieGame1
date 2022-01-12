@@ -56,40 +56,29 @@
     <Analyzer Include="/Volumes/SunDisk/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/SampleScenes/Scripts/ParticleSceneControls.cs" />
     <Compile Include="Assets/Scripts/PickUpPistol.cs" />
-    <Compile Include="Assets/SampleScenes/Scripts/SlowMoButton.cs" />
-    <Compile Include="Assets/SampleScenes/Menu/Scripts/SceneAndURLLoader.cs" />
-    <Compile Include="Assets/SampleScenes/Scripts/LevelReset.cs" />
     <Compile Include="Assets/Scripts/PlayerCasting.cs" />
     <Compile Include="Assets/Scripts/SceneManager/MoveingEnemy.cs" />
     <Compile Include="Assets/Scripts/Explain.cs" />
     <Compile Include="Assets/Scripts/Sequences/AOpening.cs" />
-    <Compile Include="Assets/SampleScenes/Menu/Scripts/PauseMenu.cs" />
     <Compile Include="Assets/Scripts/SceneManager/SceneManager3.cs" />
     <Compile Include="Assets/Scripts/SceneManager/PlayerMove3.cs" />
     <Compile Include="Assets/Scripts/SceneManager/PlayerMove2.cs" />
     <Compile Include="Assets/Scripts/SceneManager/SceneManager4.cs" />
     <Compile Include="Assets/Scripts/SceneManager/SceneManager2.cs" />
-    <Compile Include="Assets/SampleScenes/Scripts/CameraSwitch.cs" />
+    <Compile Include="Assets/Scripts/SimpleInventory.cs" />
     <Compile Include="Assets/Scripts/SceneManager/SceneManager5.cs" />
     <Compile Include="Assets/Scripts/SceneManager/SceneManager7.cs" />
     <Compile Include="Assets/Scripts/SceneManager/PlayerMove1.cs" />
     <Compile Include="Assets/Scripts/DoorCellOpen.cs" />
     <Compile Include="Assets/Scripts/Display.cs" />
     <Compile Include="Assets/Scripts/SceneManager/SceneManager1.cs" />
-    <Compile Include="Assets/SampleScenes/Scripts/PlaceTargetWithMouse.cs" />
-    <Compile Include="Assets/SampleScenes/Menu/Scripts/MenuSceneLoader.cs" />
+    <Compile Include="Assets/Scripts/InteractableObject.cs" />
     <Compile Include="Assets/Scripts/SceneManager/SceneManager6.cs" />
     <Compile Include="Assets/Scripts/SceneManager/SceneManager8.cs" />
     <Compile Include="Assets/Scripts/BGMtrigger.cs" />
     <Compile Include="Assets/Scripts/Destroyer.cs" />
-    <Compile Include="Assets/Scripts/InteractableObject.cs" />
     <Compile Include="Assets/Scripts/CursorManager.cs" />
-    <Compile Include="Assets/Scripts/SimpleInventory.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets/SampleScenes/Shaders/Skybox-Procedural.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

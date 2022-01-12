@@ -14,6 +14,7 @@ public class Display : MonoBehaviour
     public GameObject Picture;
     public GameObject ThePlayer;
     public GameObject FirstPersonController;
+    //bool aa;
 
     void Update()
     {
@@ -29,30 +30,31 @@ public class Display : MonoBehaviour
         
     }
 
-
     void OnMouseOver()
     {
-        if (TheDistance <= 2)
+        if (TheDistance <= 10) //&& aa == false)
         {
             CmdFindText.SetActive(true);
         }
 
         if (Input.GetButtonDown("Find"))//t:Keyを割り当てている
         {
-            if (TheDistance <= 2)
+            if (TheDistance <= 10)
             {
                 CmdFindText.SetActive(false);
                 Expalain.SetActive(true);
                 Picture.SetActive(true);
                 CmdReturnText.SetActive(true);
                 ThePlayer.GetComponent<FirstPersonController>().enabled = false;
-                
-
+                //aa = true;
             }
+            //aa = false;
         }
     }
     void OnMouseExit()
     {
+        //aa = false;
         CmdFindText.SetActive(false);
+
     }
 }
