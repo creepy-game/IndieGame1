@@ -14,6 +14,11 @@ public class Display : MonoBehaviour
     public GameObject Picture;
     public GameObject ThePlayer;
     public GameObject FirstPersonController;
+    [Header("アイテムを使う場合のみ設定")]
+    public GameObject TextBox;
+    [SerializeField, Multiline]
+    string getItemMessage = "";
+    bool aa = true;
 
     void Update()
     {
@@ -25,38 +30,34 @@ public class Display : MonoBehaviour
             CmdReturnText.SetActive(false);
             ThePlayer.GetComponent<FirstPersonController>().enabled = true;
             CmdFindText.SetActive(false);
+            aa = true;
         }
-        
-    }
 
+    }
 
     void OnMouseOver()
     {
-        if (TheDistance <= 2)
+        if (TheDistance <= 10 && aa)
         {
             CmdFindText.SetActive(true);
         }
 
         if (Input.GetButtonDown("Find"))//t:Keyを割り当てている
         {
-            if (TheDistance <= 2)
+            if (TheDistance <= 10)
             {
                 CmdFindText.SetActive(false);
                 Expalain.SetActive(true);
                 Picture.SetActive(true);
                 CmdReturnText.SetActive(true);
                 ThePlayer.GetComponent<FirstPersonController>().enabled = false;
-                
+                aa = false;
+                TextBox.GetComponent<Text>().text = getItemMessage;
 
             }
-
         }
-       
-
-
-
-
     }
+
     void OnMouseExit()
     {
         CmdFindText.SetActive(false);

@@ -13,29 +13,43 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-09-20T18:35:13.134+09:00
-  initializedAtString: 2021-09-20T18:35:12.965+09:00
+  lastUpdatedAtString: 2022-01-11T16:13:15.349+09:00
+  initializedAtString: 2022-01-11T16:13:15.192+09:00
   localBranches:
-  - name: ikeke2
-    tracking: origin/ikeke2
+  - name: a
+    tracking: 
   - name: main2
     tracking: origin/main2
-  - name: obote_dev.2
-    tracking: origin/obote_dev.2
-  - name: shuhei_dev2
-    tracking: origin/shuhei_dev2
-  - name: fix/stage3
+  - name: master
+    tracking: 
+  - name: develop/overall
+    tracking: 
+  - name: feature/extra
+    tracking: 
+  - name: feature/stage1
+    tracking: 
+  - name: feature/stage2
+    tracking: origin/feature/stage2
+  - name: feature/stage3
+    tracking: 
+  - name: feature/stage4
     tracking: 
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
-  - name: origin/ikeke2
+  - name: origin/master
     tracking: '[None]'
-  - name: origin/main2
+  - name: origin/develop/overall
     tracking: '[None]'
-  - name: origin/shuhei_dev2
+  - name: origin/feature/extra
     tracking: '[None]'
-  - name: origin/fix/stage3
+  - name: origin/feature/stage1
+    tracking: '[None]'
+  - name: origin/feature/stage2
+    tracking: '[None]'
+  - name: origin/feature/stage3
+    tracking: '[None]'
+  - name: origin/feature/stage4
     tracking: '[None]'
   remotes:
   - name: origin
@@ -47,33 +61,57 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - ikeke2
+    - a
     - main2
-    - obote_dev.2
-    - shuhei_dev2
-    - fix/stage3
+    - master
+    - develop/overall
+    - feature/extra
+    - feature/stage1
+    - feature/stage2
+    - feature/stage3
+    - feature/stage4
     values:
-    - name: ikeke2
+    - name: a
       remote:
-        name: origin
-        url: https://github.com/creepy-game/IndieGame1.git
-      trackingBranch: ikeke2
+        name: 
+        url: 
+      trackingBranch: 
     - name: main2
       remote:
         name: origin
         url: https://github.com/creepy-game/IndieGame1.git
       trackingBranch: main2
-    - name: obote_dev.2
+    - name: master
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: develop/overall
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: feature/extra
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: feature/stage1
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: feature/stage2
       remote:
         name: origin
         url: https://github.com/creepy-game/IndieGame1.git
-      trackingBranch: obote_dev.2
-    - name: shuhei_dev2
+      trackingBranch: feature/stage2
+    - name: feature/stage3
       remote:
-        name: origin
-        url: https://github.com/creepy-game/IndieGame1.git
-      trackingBranch: shuhei_dev2
-    - name: fix/stage3
+        name: 
+        url: 
+      trackingBranch: 
+    - name: feature/stage4
       remote:
         name: 
         url: 
@@ -84,10 +122,13 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
-      - ikeke2
-      - main2
-      - shuhei_dev2
-      - fix/stage3
+      - master
+      - develop/overall
+      - feature/extra
+      - feature/stage1
+      - feature/stage2
+      - feature/stage3
+      - feature/stage4
     subKeyValues:
     - Values:
       - name: HEAD
@@ -95,22 +136,37 @@ MonoBehaviour:
           name: origin
           url: https://github.com/creepy-game/IndieGame1.git
         trackingBranch: 
-      - name: ikeke2
+      - name: master
         remote:
           name: origin
           url: https://github.com/creepy-game/IndieGame1.git
         trackingBranch: 
-      - name: main2
+      - name: develop/overall
         remote:
           name: origin
           url: https://github.com/creepy-game/IndieGame1.git
         trackingBranch: 
-      - name: shuhei_dev2
+      - name: feature/extra
         remote:
           name: origin
           url: https://github.com/creepy-game/IndieGame1.git
         trackingBranch: 
-      - name: fix/stage3
+      - name: feature/stage1
+        remote:
+          name: origin
+          url: https://github.com/creepy-game/IndieGame1.git
+        trackingBranch: 
+      - name: feature/stage2
+        remote:
+          name: origin
+          url: https://github.com/creepy-game/IndieGame1.git
+        trackingBranch: 
+      - name: feature/stage3
+        remote:
+          name: origin
+          url: https://github.com/creepy-game/IndieGame1.git
+        trackingBranch: 
+      - name: feature/stage4
         remote:
           name: origin
           url: https://github.com/creepy-game/IndieGame1.git
