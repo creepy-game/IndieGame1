@@ -14,6 +14,10 @@ public class Display : MonoBehaviour
     public GameObject Picture;
     public GameObject ThePlayer;
     public GameObject FirstPersonController;
+    [Header("アイテムを使う場合のみ設定")]
+    public GameObject TextBox;
+    [SerializeField, Multiline]
+    string getItemMessage = "";
     bool aa = true;
 
     void Update()
@@ -28,7 +32,7 @@ public class Display : MonoBehaviour
             CmdFindText.SetActive(false);
             aa = true;
         }
-        
+
     }
 
     void OnMouseOver()
@@ -48,12 +52,14 @@ public class Display : MonoBehaviour
                 CmdReturnText.SetActive(true);
                 ThePlayer.GetComponent<FirstPersonController>().enabled = false;
                 aa = false;
+                TextBox.GetComponent<Text>().text = getItemMessage;
+
             }
         }
     }
+
     void OnMouseExit()
     {
         CmdFindText.SetActive(false);
-
     }
 }
