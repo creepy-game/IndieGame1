@@ -9,11 +9,10 @@ public class Display : MonoBehaviour
     public float TheDistance;
     public GameObject CmdFindText;
     public GameObject CmdReturnText;
-    public GameObject Item;
+    public GameObject Item_Photo;
+    public GameObject Item_Panel;
     public GameObject Expalain;
-    public GameObject Picture;
     public GameObject ThePlayer;
-    public GameObject FirstPersonController;
     [Header("アイテムを使う場合のみ設定")]
     public GameObject TextBox;
     [SerializeField, Multiline]
@@ -26,7 +25,8 @@ public class Display : MonoBehaviour
         if (Input.GetButtonDown("Return"))//r:Keyを割り当てている
         {
             Expalain.SetActive(false);
-            Picture.SetActive(false);
+            Item_Photo.SetActive(false);
+            Item_Panel.SetActive(false);
             CmdReturnText.SetActive(false);
             ThePlayer.GetComponent<FirstPersonController>().enabled = true;
             CmdFindText.SetActive(false);
@@ -48,7 +48,8 @@ public class Display : MonoBehaviour
             {
                 CmdFindText.SetActive(false);
                 Expalain.SetActive(true);
-                Picture.SetActive(true);
+                Item_Photo.SetActive(true);
+                Item_Panel.SetActive(true);
                 CmdReturnText.SetActive(true);
                 ThePlayer.GetComponent<FirstPersonController>().enabled = false;
                 aa = false;
