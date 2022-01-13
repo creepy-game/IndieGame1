@@ -1482,7 +1482,7 @@ PrefabInstance:
     - target: {fileID: 6062979147108581410, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0a4802b85219ed3458c0fe7e4fdcbc51, type: 2}
+      objectReference: {fileID: 2100000, guid: 071124f8b4b973c43a72497b0c18b54a, type: 2}
     - target: {fileID: 6062979147108581412, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Name
       value: floor (28)
@@ -2424,7 +2424,7 @@ PrefabInstance:
     - target: {fileID: 6062979147108581410, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0a4802b85219ed3458c0fe7e4fdcbc51, type: 2}
+      objectReference: {fileID: 2100000, guid: 071124f8b4b973c43a72497b0c18b54a, type: 2}
     - target: {fileID: 6062979147108581412, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Name
       value: floor (25)
@@ -5438,7 +5438,7 @@ PrefabInstance:
     - target: {fileID: 6062979147108581410, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0a4802b85219ed3458c0fe7e4fdcbc51, type: 2}
+      objectReference: {fileID: 2100000, guid: 071124f8b4b973c43a72497b0c18b54a, type: 2}
     - target: {fileID: 6062979147108581412, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Name
       value: floor (32)
@@ -7603,7 +7603,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-7080
+  m_Name: pb_Mesh-26330
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7815,7 +7815,7 @@ PrefabInstance:
     - target: {fileID: 6062979147108581410, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0a4802b85219ed3458c0fe7e4fdcbc51, type: 2}
+      objectReference: {fileID: 2100000, guid: 071124f8b4b973c43a72497b0c18b54a, type: 2}
     - target: {fileID: 6062979147108581412, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Name
       value: floor (24)
@@ -8313,7 +8313,7 @@ PrefabInstance:
     - target: {fileID: 6062979147108581410, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0a4802b85219ed3458c0fe7e4fdcbc51, type: 2}
+      objectReference: {fileID: 2100000, guid: 071124f8b4b973c43a72497b0c18b54a, type: 2}
     - target: {fileID: 6062979147108581412, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Name
       value: floor (26)
@@ -15976,7 +15976,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2396
+  m_Name: pb_Mesh-21646
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -17105,9 +17105,17 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6062979147108581410, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6062979147108581410, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0a4802b85219ed3458c0fe7e4fdcbc51, type: 2}
+      objectReference: {fileID: 2100000, guid: 071124f8b4b973c43a72497b0c18b54a, type: 2}
+    - target: {fileID: 6062979147108581410, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 6062979147108581412, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Name
       value: floor (23)
@@ -18624,7 +18632,7 @@ PrefabInstance:
     - target: {fileID: 6062979147108581410, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0a4802b85219ed3458c0fe7e4fdcbc51, type: 2}
+      objectReference: {fileID: 2100000, guid: 071124f8b4b973c43a72497b0c18b54a, type: 2}
     - target: {fileID: 6062979147108581412, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Name
       value: floor (27)
@@ -19910,7 +19918,7 @@ PrefabInstance:
     - target: {fileID: 6062979147108581410, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0a4802b85219ed3458c0fe7e4fdcbc51, type: 2}
+      objectReference: {fileID: 2100000, guid: 071124f8b4b973c43a72497b0c18b54a, type: 2}
     - target: {fileID: 6062979147108581412, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Name
       value: floor (30)
@@ -20975,7 +20983,7 @@ PrefabInstance:
     - target: {fileID: 6062979147108581410, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0a4802b85219ed3458c0fe7e4fdcbc51, type: 2}
+      objectReference: {fileID: 2100000, guid: 071124f8b4b973c43a72497b0c18b54a, type: 2}
     - target: {fileID: 6062979147108581412, guid: f9d3739e95a0ce24194900f49996fff0, type: 3}
       propertyPath: m_Name
       value: floor (29)
@@ -30082,11 +30090,10 @@ MonoBehaviour:
   TheDistance: 0
   CmdFindText: {fileID: 1171287256}
   CmdReturnText: {fileID: 1767915857}
-  Item: {fileID: 2111763993}
+  Item_Photo: {fileID: 0}
+  Item_Panel: {fileID: 0}
   Expalain: {fileID: 1664075142}
-  Picture: {fileID: 1580748902}
   ThePlayer: {fileID: 1291878857}
-  FirstPersonController: {fileID: 1410573213}
   TextBox: {fileID: 0}
   getItemMessage: 
 --- !u!4 &2117476639 stripped
