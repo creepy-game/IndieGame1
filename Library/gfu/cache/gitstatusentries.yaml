@@ -13,54 +13,108 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-01-12T23:59:18.326+09:00
-  initializedAtString: 2022-01-12T21:21:33.406+09:00
+  lastUpdatedAtString: 2022-01-13T21:54:32.367+09:00
+  initializedAtString: 2022-01-13T21:50:16.708+09:00
   entries:
-  - path: Assets/Scripts/Display.cs
-    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Assets/Scripts/Display.cs
-    projectPath: Assets/Scripts/Display.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library/ArtifactDB
     fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ArtifactDB
     projectPath: Library/ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/ArtifactDB-lock
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ArtifactDB-lock
+    projectPath: Library/ArtifactDB-lock
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/Artifacts/10/1096f8280dc6a66a4b1f9c0c7fe79dee
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/Artifacts/10/1096f8280dc6a66a4b1f9c0c7fe79dee
+    projectPath: Library/Artifacts/10/1096f8280dc6a66a4b1f9c0c7fe79dee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/1c/1c3feb41a87c4600c011dfcdc847da96
     fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/Artifacts/1c/1c3feb41a87c4600c011dfcdc847da96
     projectPath: Library/Artifacts/1c/1c3feb41a87c4600c011dfcdc847da96
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/27/27c101a95aae991182b366ffaec6a6d3
     fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/Artifacts/27/27c101a95aae991182b366ffaec6a6d3
     projectPath: Library/Artifacts/27/27c101a95aae991182b366ffaec6a6d3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/3c/3c39c230ab097b87fdbfedf2c9b90cbc
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/Artifacts/3c/3c39c230ab097b87fdbfedf2c9b90cbc
+    projectPath: Library/Artifacts/3c/3c39c230ab097b87fdbfedf2c9b90cbc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/4b/4bf9ae7cb192de76a1b7364e6a65264f
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/Artifacts/4b/4bf9ae7cb192de76a1b7364e6a65264f
+    projectPath: Library/Artifacts/4b/4bf9ae7cb192de76a1b7364e6a65264f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/86/86ee56c1a91b89853bcb9b040b25ebea
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/Artifacts/86/86ee56c1a91b89853bcb9b040b25ebea
+    projectPath: Library/Artifacts/86/86ee56c1a91b89853bcb9b040b25ebea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library/Artifacts/c4/c48fa474d92f859b489fea6378d48bf3
     fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/Artifacts/c4/c48fa474d92f859b489fea6378d48bf3
     projectPath: Library/Artifacts/c4/c48fa474d92f859b489fea6378d48bf3
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c4/c4a68a2f6e304e4c860e79b7c2630ac5
-    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/Artifacts/c4/c4a68a2f6e304e4c860e79b7c2630ac5
-    projectPath: Library/Artifacts/c4/c4a68a2f6e304e4c860e79b7c2630ac5
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/db/dbe4aa550fa48e12bdfbebd88cac67cd
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/Artifacts/db/dbe4aa550fa48e12bdfbebd88cac67cd
+    projectPath: Library/Artifacts/db/dbe4aa550fa48e12bdfbebd88cac67cd
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/EditorInstance.json
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/EditorOnlyScriptingSettings.json
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/EditorOnlyScriptingSettings.json
+    projectPath: Library/EditorOnlyScriptingSettings.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/gfu/cache/gitstatusentries.yaml
     fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/gfu/cache/gitstatusentries.yaml
     projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/InspectorExpandedItems.asset
-    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/InspectorExpandedItems.asset
-    projectPath: Library/InspectorExpandedItems.asset
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -82,9 +136,303 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Assembly-CSharp-firstpass.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Assembly-CSharp-firstpass.pdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-firstpass.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.PlasticSCM.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.PlasticSCM.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Csg.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Csg.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Csg.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Csg.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Csg.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Csg.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.KdTree.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.KdTree.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.KdTree.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.KdTree.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.KdTree.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.KdTree.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Poly2Tri.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Poly2Tri.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Poly2Tri.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Poly2Tri.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Poly2Tri.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Poly2Tri.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Stl.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Stl.dll
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Stl.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.ProBuilder.Stl.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.ProBuilder.Stl.pdb
+    projectPath: Library/ScriptAssemblies/Unity.ProBuilder.Stl.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Settings.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Settings.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Settings.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Settings.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Settings.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Settings.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    projectPath: Library/ScriptAssemblies/Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Timeline.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.Timeline.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.Timeline.pdb
+    projectPath: Library/ScriptAssemblies/Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.VisualStudio.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    projectPath: Library/ScriptAssemblies/Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    projectPath: Library/ScriptAssemblies/UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.UI.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEditor.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEditor.UI.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEditor.UI.pdb
+    projectPath: Library/ScriptAssemblies/UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    projectPath: Library/ScriptAssemblies/UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.dll
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEngine.UI.dll
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/ScriptAssemblies/UnityEngine.UI.pdb
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/ScriptAssemblies/UnityEngine.UI.pdb
+    projectPath: Library/ScriptAssemblies/UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library/SourceAssetDB
     fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SourceAssetDB-lock
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Library/SourceAssetDB-lock
+    projectPath: Library/SourceAssetDB-lock
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -105,16 +453,58 @@ MonoBehaviour:
     projectPath: Logs/AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs/AssetImportWorker0-prev.log
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Logs/AssetImportWorker0-prev.log
+    projectPath: Logs/AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
     workTreeStatus: 3
+  - path: Logs/shadercompiler-AssetImportWorker0.log
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Logs/shadercompiler-AssetImportWorker0.log
+    projectPath: Logs/shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Logs/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Logs/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Logs/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Logs/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/__Backupscenes/0.backup
     fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/__Backupscenes/0.backup
     projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Temp/Assembly-CSharp.dll.hash
     fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Assembly-CSharp.dll.hash
     projectPath: Temp/Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp/Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Assembly-CSharp-firstpass.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Assembly-CSharp-firstpass.dll.hash
+    projectPath: Temp/Assembly-CSharp-firstpass.dll.hash
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -124,9 +514,339 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Temp/Unity.CollabProxy.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp/Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.PlasticSCM.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.PlasticSCM.Editor.dll.hash
+    projectPath: Temp/Unity.PlasticSCM.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.ProBuilder.AddOns.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.AddOns.Editor.dll.hash
+    projectPath: Temp/Unity.ProBuilder.AddOns.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.ProBuilder.AssetIdRemapUtility.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.AssetIdRemapUtility.dll.hash
+    projectPath: Temp/Unity.ProBuilder.AssetIdRemapUtility.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.ProBuilder.Csg.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.Csg.dll.hash
+    projectPath: Temp/Unity.ProBuilder.Csg.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.ProBuilder.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.dll.hash
+    projectPath: Temp/Unity.ProBuilder.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.ProBuilder.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.Editor.dll.hash
+    projectPath: Temp/Unity.ProBuilder.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.ProBuilder.KdTree.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.KdTree.dll.hash
+    projectPath: Temp/Unity.ProBuilder.KdTree.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.ProBuilder.Poly2Tri.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.Poly2Tri.dll.hash
+    projectPath: Temp/Unity.ProBuilder.Poly2Tri.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.ProBuilder.Stl.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.ProBuilder.Stl.dll.hash
+    projectPath: Temp/Unity.ProBuilder.Stl.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.Rider.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.Rider.Editor.dll.hash
+    projectPath: Temp/Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.Settings.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.Settings.Editor.dll.hash
+    projectPath: Temp/Unity.Settings.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.TextMeshPro.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.TextMeshPro.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.TextMeshPro.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp/Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.Timeline.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.Timeline.dll.hash
+    projectPath: Temp/Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.Timeline.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.Timeline.Editor.dll.hash
+    projectPath: Temp/Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.VisualStudio.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp/Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/Unity.VSCode.Editor.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/Unity.VSCode.Editor.dll.hash
+    projectPath: Temp/Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityEditor.TestRunner.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityEditor.TestRunner.dll.hash
+    projectPath: Temp/UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityEditor.UI.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityEditor.UI.dll.hash
+    projectPath: Temp/UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityEngine.TestRunner.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityEngine.TestRunner.dll.hash
+    projectPath: Temp/UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityEngine.UI.dll.hash
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityEngine.UI.dll.hash
+    projectPath: Temp/UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/UnityTempFile-018bc05d30d204b6fa66288433c9d20b
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-018bc05d30d204b6fa66288433c9d20b
+    projectPath: Temp/UnityTempFile-018bc05d30d204b6fa66288433c9d20b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-01dee8716c72246ad8a46e50953776dd
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-01dee8716c72246ad8a46e50953776dd
+    projectPath: Temp/UnityTempFile-01dee8716c72246ad8a46e50953776dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-0319847f6444f4dfaa128ccf60aa8982
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-0319847f6444f4dfaa128ccf60aa8982
+    projectPath: Temp/UnityTempFile-0319847f6444f4dfaa128ccf60aa8982
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0722efa46ff784109a83b6a2bb2482c9
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-0722efa46ff784109a83b6a2bb2482c9
+    projectPath: Temp/UnityTempFile-0722efa46ff784109a83b6a2bb2482c9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0da6c1b6a1f9c4604bdcf8c290d4b6f1
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-0da6c1b6a1f9c4604bdcf8c290d4b6f1
+    projectPath: Temp/UnityTempFile-0da6c1b6a1f9c4604bdcf8c290d4b6f1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-0e1172625fdfb442ea5e44ffc7ede659
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-0e1172625fdfb442ea5e44ffc7ede659
+    projectPath: Temp/UnityTempFile-0e1172625fdfb442ea5e44ffc7ede659
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1c6c7bbf1aa7046679307a97f6dcebc7
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-1c6c7bbf1aa7046679307a97f6dcebc7
+    projectPath: Temp/UnityTempFile-1c6c7bbf1aa7046679307a97f6dcebc7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-217b513659b5d4b769a11d6a6610084a
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-217b513659b5d4b769a11d6a6610084a
+    projectPath: Temp/UnityTempFile-217b513659b5d4b769a11d6a6610084a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-22e139e18d9ce4041a17142b6a3eb5f6
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-22e139e18d9ce4041a17142b6a3eb5f6
+    projectPath: Temp/UnityTempFile-22e139e18d9ce4041a17142b6a3eb5f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2894a51ac5e724dd3993338dd6c6f91e
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-2894a51ac5e724dd3993338dd6c6f91e
+    projectPath: Temp/UnityTempFile-2894a51ac5e724dd3993338dd6c6f91e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-2957cd2b9bb694dfabb0cadba16729c0
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-2957cd2b9bb694dfabb0cadba16729c0
+    projectPath: Temp/UnityTempFile-2957cd2b9bb694dfabb0cadba16729c0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2a7d1e9fe6f5f43bcaa5cf5dffd759d0
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-2a7d1e9fe6f5f43bcaa5cf5dffd759d0
+    projectPath: Temp/UnityTempFile-2a7d1e9fe6f5f43bcaa5cf5dffd759d0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-2ca610fdbc7d446539f78ded60b22243
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-2ca610fdbc7d446539f78ded60b22243
+    projectPath: Temp/UnityTempFile-2ca610fdbc7d446539f78ded60b22243
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-35caaa5a823574b28be58c08680a6932
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-35caaa5a823574b28be58c08680a6932
+    projectPath: Temp/UnityTempFile-35caaa5a823574b28be58c08680a6932
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-38a9ece79d98b4729aaa358e024a0246
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-38a9ece79d98b4729aaa358e024a0246
+    projectPath: Temp/UnityTempFile-38a9ece79d98b4729aaa358e024a0246
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4127b2585897c48af9c990f71a22f075
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-4127b2585897c48af9c990f71a22f075
+    projectPath: Temp/UnityTempFile-4127b2585897c48af9c990f71a22f075
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-425901d9567a149ef8d53a30d673456c
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-425901d9567a149ef8d53a30d673456c
+    projectPath: Temp/UnityTempFile-425901d9567a149ef8d53a30d673456c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp/UnityTempFile-442fa3159776c44aaac6d0d8be6f5cc1
     fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-442fa3159776c44aaac6d0d8be6f5cc1
     projectPath: Temp/UnityTempFile-442fa3159776c44aaac6d0d8be6f5cc1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-4566bb76057eb4377b4bdbb9f7010bbf
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-4566bb76057eb4377b4bdbb9f7010bbf
+    projectPath: Temp/UnityTempFile-4566bb76057eb4377b4bdbb9f7010bbf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-4e290c290e3df4885af0e028d637204d
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-4e290c290e3df4885af0e028d637204d
+    projectPath: Temp/UnityTempFile-4e290c290e3df4885af0e028d637204d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-4e6d99821362c444aa1b1cebc9d34841
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-4e6d99821362c444aa1b1cebc9d34841
+    projectPath: Temp/UnityTempFile-4e6d99821362c444aa1b1cebc9d34841
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-4eb45ad5a7d8b4323a51f4a1fdc6a90a
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-4eb45ad5a7d8b4323a51f4a1fdc6a90a
+    projectPath: Temp/UnityTempFile-4eb45ad5a7d8b4323a51f4a1fdc6a90a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-545cc2b0a8c4541d2988198fdec8bf8a
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-545cc2b0a8c4541d2988198fdec8bf8a
+    projectPath: Temp/UnityTempFile-545cc2b0a8c4541d2988198fdec8bf8a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-54ecf8ed0a12e46f1ba42f3334ca4ff6
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-54ecf8ed0a12e46f1ba42f3334ca4ff6
+    projectPath: Temp/UnityTempFile-54ecf8ed0a12e46f1ba42f3334ca4ff6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-5aa79fa8d03d8411f80d45161a94813d
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-5aa79fa8d03d8411f80d45161a94813d
+    projectPath: Temp/UnityTempFile-5aa79fa8d03d8411f80d45161a94813d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-61199db6ee45042f5a016f2d1d956d34
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-61199db6ee45042f5a016f2d1d956d34
+    projectPath: Temp/UnityTempFile-61199db6ee45042f5a016f2d1d956d34
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-61ae5966e55984613974d38dd36d8b4d
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-61ae5966e55984613974d38dd36d8b4d
+    projectPath: Temp/UnityTempFile-61ae5966e55984613974d38dd36d8b4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-62f8f1b9f44b342db9d2d9f1284f34e6
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-62f8f1b9f44b342db9d2d9f1284f34e6
+    projectPath: Temp/UnityTempFile-62f8f1b9f44b342db9d2d9f1284f34e6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6744dfeddf6da42da9ccda130e2dbf9d
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-6744dfeddf6da42da9ccda130e2dbf9d
+    projectPath: Temp/UnityTempFile-6744dfeddf6da42da9ccda130e2dbf9d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6b119fb876eda4f26bf60ef3b4d9db4a
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-6b119fb876eda4f26bf60ef3b4d9db4a
+    projectPath: Temp/UnityTempFile-6b119fb876eda4f26bf60ef3b4d9db4a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6f2b0b97554224c939655ddd44740fc1
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-6f2b0b97554224c939655ddd44740fc1
+    projectPath: Temp/UnityTempFile-6f2b0b97554224c939655ddd44740fc1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-6f7da03a42c5d4776b530b8a0ecc8217
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-6f7da03a42c5d4776b530b8a0ecc8217
+    projectPath: Temp/UnityTempFile-6f7da03a42c5d4776b530b8a0ecc8217
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-7001d8e1bb32a48e9969b6d3a8419786
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-7001d8e1bb32a48e9969b6d3a8419786
+    projectPath: Temp/UnityTempFile-7001d8e1bb32a48e9969b6d3a8419786
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-710569804cb8e4eb3910dd0868a7f573
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-710569804cb8e4eb3910dd0868a7f573
+    projectPath: Temp/UnityTempFile-710569804cb8e4eb3910dd0868a7f573
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -134,17 +854,287 @@ MonoBehaviour:
     fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-721b7c59a1fbd4f929bab496805b2892
     projectPath: Temp/UnityTempFile-721b7c59a1fbd4f929bab496805b2892
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-73d64626ad2934e02ae83da5e568a73b
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-73d64626ad2934e02ae83da5e568a73b
+    projectPath: Temp/UnityTempFile-73d64626ad2934e02ae83da5e568a73b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-7860a17a09a5547ecb697f40dbac8543
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-7860a17a09a5547ecb697f40dbac8543
+    projectPath: Temp/UnityTempFile-7860a17a09a5547ecb697f40dbac8543
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7b80065cfe26a4c8cb16ef9f44455e03
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-7b80065cfe26a4c8cb16ef9f44455e03
+    projectPath: Temp/UnityTempFile-7b80065cfe26a4c8cb16ef9f44455e03
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-80c2bf34e80fa42beabc109039d8359e
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-80c2bf34e80fa42beabc109039d8359e
+    projectPath: Temp/UnityTempFile-80c2bf34e80fa42beabc109039d8359e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-87614c0c74c3f443495251e93674c844
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-87614c0c74c3f443495251e93674c844
+    projectPath: Temp/UnityTempFile-87614c0c74c3f443495251e93674c844
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-89dfa8e75d6e34e42b377f379ca18d6d
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-89dfa8e75d6e34e42b377f379ca18d6d
+    projectPath: Temp/UnityTempFile-89dfa8e75d6e34e42b377f379ca18d6d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8bba8ebf7e7644a10b4a5409a5383613
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-8bba8ebf7e7644a10b4a5409a5383613
+    projectPath: Temp/UnityTempFile-8bba8ebf7e7644a10b4a5409a5383613
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-8d538072384734a81b8d5d1e78533862
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-8d538072384734a81b8d5d1e78533862
+    projectPath: Temp/UnityTempFile-8d538072384734a81b8d5d1e78533862
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-91cd1aa325a854d618fcafa6e5962498
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-91cd1aa325a854d618fcafa6e5962498
+    projectPath: Temp/UnityTempFile-91cd1aa325a854d618fcafa6e5962498
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-922cf9ae88de44908aeb41f2b184436f
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-922cf9ae88de44908aeb41f2b184436f
+    projectPath: Temp/UnityTempFile-922cf9ae88de44908aeb41f2b184436f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-93f20222cc3c041acb3a03d4aa993943
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-93f20222cc3c041acb3a03d4aa993943
+    projectPath: Temp/UnityTempFile-93f20222cc3c041acb3a03d4aa993943
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9516fa7549d5b4f11ad7ae330368019f
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-9516fa7549d5b4f11ad7ae330368019f
+    projectPath: Temp/UnityTempFile-9516fa7549d5b4f11ad7ae330368019f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9750e71600c104afaa29ac833f030ae3
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-9750e71600c104afaa29ac833f030ae3
+    projectPath: Temp/UnityTempFile-9750e71600c104afaa29ac833f030ae3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9ce110b3544274257b47309d4235e9f5
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-9ce110b3544274257b47309d4235e9f5
+    projectPath: Temp/UnityTempFile-9ce110b3544274257b47309d4235e9f5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-9ee75e9f0fdc647b38a4c9062c00a13e
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-9ee75e9f0fdc647b38a4c9062c00a13e
+    projectPath: Temp/UnityTempFile-9ee75e9f0fdc647b38a4c9062c00a13e
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Temp/UnityTempFile-a28c852cc74544c8dbad1d232cdebe56
     fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-a28c852cc74544c8dbad1d232cdebe56
     projectPath: Temp/UnityTempFile-a28c852cc74544c8dbad1d232cdebe56
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-a2c5fec37e052422193c56fca57eda10
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-a2c5fec37e052422193c56fca57eda10
+    projectPath: Temp/UnityTempFile-a2c5fec37e052422193c56fca57eda10
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp/UnityTempFile-a7f9e935a3fc34842be9e88f048d7d92
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-a7f9e935a3fc34842be9e88f048d7d92
+    projectPath: Temp/UnityTempFile-a7f9e935a3fc34842be9e88f048d7d92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ae62ae2ca942b47c685f970f5b5a779a
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-ae62ae2ca942b47c685f970f5b5a779a
+    projectPath: Temp/UnityTempFile-ae62ae2ca942b47c685f970f5b5a779a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ae70d7aa891454bd2ade26a8ecf42e67
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-ae70d7aa891454bd2ade26a8ecf42e67
+    projectPath: Temp/UnityTempFile-ae70d7aa891454bd2ade26a8ecf42e67
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-b2739b5f70043454a98a5280cf248ab7
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-b2739b5f70043454a98a5280cf248ab7
+    projectPath: Temp/UnityTempFile-b2739b5f70043454a98a5280cf248ab7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-b2dcae2f9037247eb999b33bb43a2722
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-b2dcae2f9037247eb999b33bb43a2722
+    projectPath: Temp/UnityTempFile-b2dcae2f9037247eb999b33bb43a2722
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-b4f161fe5945649dd870fd62e87a8e9a
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-b4f161fe5945649dd870fd62e87a8e9a
+    projectPath: Temp/UnityTempFile-b4f161fe5945649dd870fd62e87a8e9a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-bc759f785e58848d18f4b37c562b7f89
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-bc759f785e58848d18f4b37c562b7f89
+    projectPath: Temp/UnityTempFile-bc759f785e58848d18f4b37c562b7f89
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-be37d3ba8061b4f2ba595ea47fd318e7
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-be37d3ba8061b4f2ba595ea47fd318e7
+    projectPath: Temp/UnityTempFile-be37d3ba8061b4f2ba595ea47fd318e7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-bfdb80fa22a7a42c5b1fac0a06084d22
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-bfdb80fa22a7a42c5b1fac0a06084d22
+    projectPath: Temp/UnityTempFile-bfdb80fa22a7a42c5b1fac0a06084d22
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-c0e7a2688a98642439266d3c1d1e0fd6
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-c0e7a2688a98642439266d3c1d1e0fd6
+    projectPath: Temp/UnityTempFile-c0e7a2688a98642439266d3c1d1e0fd6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-c8387c15e5295495c8110670d0909cd5
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-c8387c15e5295495c8110670d0909cd5
+    projectPath: Temp/UnityTempFile-c8387c15e5295495c8110670d0909cd5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-cf21e5f980729445ab31646cc9aaddd9
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-cf21e5f980729445ab31646cc9aaddd9
+    projectPath: Temp/UnityTempFile-cf21e5f980729445ab31646cc9aaddd9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-d53cd341030d946369c9502cbff3ad5f
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-d53cd341030d946369c9502cbff3ad5f
+    projectPath: Temp/UnityTempFile-d53cd341030d946369c9502cbff3ad5f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-d7cdcd9394514461eb0d37c5752b5c91
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-d7cdcd9394514461eb0d37c5752b5c91
+    projectPath: Temp/UnityTempFile-d7cdcd9394514461eb0d37c5752b5c91
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-dd3c8e27a0eb547028b453548673bd4c
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-dd3c8e27a0eb547028b453548673bd4c
+    projectPath: Temp/UnityTempFile-dd3c8e27a0eb547028b453548673bd4c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-dd3e7883e9f8048928bc3cdb651fd4b3
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-dd3e7883e9f8048928bc3cdb651fd4b3
+    projectPath: Temp/UnityTempFile-dd3e7883e9f8048928bc3cdb651fd4b3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-df9736531bff94558be0daa13756dea2
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-df9736531bff94558be0daa13756dea2
+    projectPath: Temp/UnityTempFile-df9736531bff94558be0daa13756dea2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e1aa1e8f6732f44bcbfbe8d6f8b97daa
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-e1aa1e8f6732f44bcbfbe8d6f8b97daa
+    projectPath: Temp/UnityTempFile-e1aa1e8f6732f44bcbfbe8d6f8b97daa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e23984b54cc0d45f48ea30fa74860e6d
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-e23984b54cc0d45f48ea30fa74860e6d
+    projectPath: Temp/UnityTempFile-e23984b54cc0d45f48ea30fa74860e6d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-e6f67bcc0fc744385909103a381bfc52
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-e6f67bcc0fc744385909103a381bfc52
+    projectPath: Temp/UnityTempFile-e6f67bcc0fc744385909103a381bfc52
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-e978eca3536d04230a20877dbac2a44d
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-e978eca3536d04230a20877dbac2a44d
+    projectPath: Temp/UnityTempFile-e978eca3536d04230a20877dbac2a44d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ea689b399b5884acbaf73202984ce8e5
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-ea689b399b5884acbaf73202984ce8e5
+    projectPath: Temp/UnityTempFile-ea689b399b5884acbaf73202984ce8e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-eb734ec426b2e48d7af9c70e81c806c1
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-eb734ec426b2e48d7af9c70e81c806c1
+    projectPath: Temp/UnityTempFile-eb734ec426b2e48d7af9c70e81c806c1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-ecb7a8fb618d64a6b85004a3e6870b94
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-ecb7a8fb618d64a6b85004a3e6870b94
+    projectPath: Temp/UnityTempFile-ecb7a8fb618d64a6b85004a3e6870b94
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-ed7df759d8ab54a3fbb16cff1ac139b3
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-ed7df759d8ab54a3fbb16cff1ac139b3
+    projectPath: Temp/UnityTempFile-ed7df759d8ab54a3fbb16cff1ac139b3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Temp/UnityTempFile-ef45b4228623745dbb734965557489f8
     fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-ef45b4228623745dbb734965557489f8
     projectPath: Temp/UnityTempFile-ef45b4228623745dbb734965557489f8
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f763186e51ad944348475ec92e5061d0
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-f763186e51ad944348475ec92e5061d0
+    projectPath: Temp/UnityTempFile-f763186e51ad944348475ec92e5061d0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-f95faac68880b47708d786d6a3cabfca
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-f95faac68880b47708d786d6a3cabfca
+    projectPath: Temp/UnityTempFile-f95faac68880b47708d786d6a3cabfca
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: Temp/UnityTempFile-f99d5763f81a0426db20ee5ae98d2acc
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-f99d5763f81a0426db20ee5ae98d2acc
+    projectPath: Temp/UnityTempFile-f99d5763f81a0426db20ee5ae98d2acc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Temp/UnityTempFile-fd9aafc6586d64df0aa97ad50d6f9d2e
+    fullPath: /Volumes/SunDisk/Unity/Games/IndieGame1/Temp/UnityTempFile-fd9aafc6586d64df0aa97ad50d6f9d2e
+    projectPath: Temp/UnityTempFile-fd9aafc6586d64df0aa97ad50d6f9d2e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
