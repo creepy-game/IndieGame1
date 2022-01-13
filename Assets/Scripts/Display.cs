@@ -7,8 +7,8 @@ using UnityStandardAssets.Characters.FirstPerson;
 public class Display : MonoBehaviour
 {
     public float TheDistance;
-    public GameObject CmdFindText;
-    public GameObject CmdReturnText;
+    public GameObject Cmd_FindText;
+    public GameObject Cmd_ReturnText;
     public GameObject Item_Photo;
     public GameObject Item_Panel;
     public GameObject Expalain;
@@ -27,9 +27,9 @@ public class Display : MonoBehaviour
             Expalain.SetActive(false);
             Item_Photo.SetActive(false);
             Item_Panel.SetActive(false);
-            CmdReturnText.SetActive(false);
+            Cmd_ReturnText.SetActive(false);
             ThePlayer.GetComponent<FirstPersonController>().enabled = true;
-            CmdFindText.SetActive(false);
+            Cmd_FindText.SetActive(false);
             aa = true;
         }
 
@@ -39,18 +39,18 @@ public class Display : MonoBehaviour
     {
         if (TheDistance <= 10 && aa)
         {
-            CmdFindText.SetActive(true);
+            Cmd_FindText.SetActive(true);
         }
 
         if (Input.GetButtonDown("Find"))//t:Keyを割り当てている
         {
             if (TheDistance <= 10)
             {
-                CmdFindText.SetActive(false);
+                Cmd_FindText.SetActive(false);
                 Expalain.SetActive(true);
                 Item_Photo.SetActive(true);
                 Item_Panel.SetActive(true);
-                CmdReturnText.SetActive(true);
+                Cmd_ReturnText.SetActive(true);
                 ThePlayer.GetComponent<FirstPersonController>().enabled = false;
                 aa = false;
                 TextBox.GetComponent<Text>().text = getItemMessage;
@@ -61,6 +61,6 @@ public class Display : MonoBehaviour
 
     void OnMouseExit()
     {
-        CmdFindText.SetActive(false);
+        Cmd_FindText.SetActive(false);
     }
 }
