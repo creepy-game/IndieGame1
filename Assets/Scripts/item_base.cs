@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityStandardAssets.Characters.FirstPerson;
 
-public class Display : MonoBehaviour
+public class item_base : MonoBehaviour
 {
     public float TheDistance;
     public GameObject Cmd_FindText;
@@ -17,7 +17,8 @@ public class Display : MonoBehaviour
     public GameObject TextBox;
     [SerializeField, Multiline]
     string getItemMessage = "";
-    bool aa = true;
+    bool aa ;
+    public bool get_item = false;
 
     void Update()
     {
@@ -47,13 +48,13 @@ public class Display : MonoBehaviour
             if (TheDistance <= 10)
             {
                 Cmd_FindText.SetActive(false);
-                Expalain.SetActive(true);
                 Item_Photo.SetActive(true);
                 Item_Panel.SetActive(true);
                 Cmd_ReturnText.SetActive(true);
                 ThePlayer.GetComponent<FirstPersonController>().enabled = false;
                 aa = false;
                 TextBox.GetComponent<Text>().text = getItemMessage;
+                get_item = true;
 
             }
         }

@@ -24,6 +24,7 @@ public class DoorCellOpen : MonoBehaviour
         {
             Cmd_Action.SetActive(true);
             TextBox.SetActive(true);
+            TextBox.GetComponent<Text>().text = Action_Message;
 
         }
 
@@ -36,7 +37,6 @@ public class DoorCellOpen : MonoBehaviour
                 TextBox.SetActive(false);
                 TheDoor.GetComponent<Animation>().Play("FirstDoorOpenAnim");
                 CreaakSound.Play();
-                TextBox.GetComponent<Text>().text = Action_Message;
             }
         }
     }
