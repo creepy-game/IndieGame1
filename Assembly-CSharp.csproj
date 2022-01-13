@@ -58,27 +58,28 @@
   <ItemGroup>
     <Compile Include="Assets/Scripts/PickUpPistol.cs" />
     <Compile Include="Assets/Scripts/PlayerCasting.cs" />
-    <Compile Include="Assets/Scripts/Base/MoveingEnemy.cs" />
+    <Compile Include="Assets/Scripts/base/MoveingEnemy.cs" />
     <Compile Include="Assets/Scripts/Explain.cs" />
     <Compile Include="Assets/Scripts/Sequences/AOpening.cs" />
-    <Compile Include="Assets/Scripts/Base/SceneManager3.cs" />
-    <Compile Include="Assets/Scripts/Base/PlayerMove3.cs" />
-    <Compile Include="Assets/Scripts/Base/PlayerMove2.cs" />
-    <Compile Include="Assets/Scripts/Base/SceneManager4.cs" />
-    <Compile Include="Assets/Scripts/Base/SceneManager2.cs" />
+    <Compile Include="Assets/Scripts/base/SceneManager3.cs" />
+    <Compile Include="Assets/Scripts/base/PlayerMove3.cs" />
+    <Compile Include="Assets/Scripts/base/PlayerMove2.cs" />
+    <Compile Include="Assets/Scripts/base/SceneManager4.cs" />
+    <Compile Include="Assets/Scripts/base/SceneManager2.cs" />
     <Compile Include="Assets/Scripts/SimpleInventory.cs" />
-    <Compile Include="Assets/Scripts/Base/SceneManager5.cs" />
-    <Compile Include="Assets/Scripts/Base/SceneManager7.cs" />
-    <Compile Include="Assets/Scripts/Base/PlayerMove1.cs" />
+    <Compile Include="Assets/Scripts/base/SceneManager5.cs" />
+    <Compile Include="Assets/Scripts/base/SceneManager7.cs" />
+    <Compile Include="Assets/Scripts/base/PlayerMove1.cs" />
     <Compile Include="Assets/Scripts/door_base.cs" />
     <Compile Include="Assets/Scripts/item_base.cs" />
-    <Compile Include="Assets/Scripts/Base/SceneManager1.cs" />
+    <Compile Include="Assets/Scripts/base/SceneManager1.cs" />
     <Compile Include="Assets/Scripts/InteractableObject.cs" />
-    <Compile Include="Assets/Scripts/Base/SceneManager6.cs" />
-    <Compile Include="Assets/Scripts/Base/SceneManager8.cs" />
+    <Compile Include="Assets/Scripts/base/SceneManager6.cs" />
+    <Compile Include="Assets/Scripts/base/SceneManager8.cs" />
     <Compile Include="Assets/Scripts/BGMtrigger.cs" />
     <Compile Include="Assets/Scripts/Destroyer.cs" />
     <Compile Include="Assets/Scripts/CursorManager.cs" />
+    <Compile Include="Assets/Scripts/Global.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

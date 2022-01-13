@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{901BF749-6EE3-4A21-B323-5D053982E3F3}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BGMtrigger.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Global.cs">
     <Files>
-      <File FileName="Assets/Scripts/Display.cs" Line="21" Column="25" />
-      <File FileName="Assets/Scripts/BGMtrigger.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Sequences/AOpening.cs" />
+      <File FileName="Assets/Scripts/Display.cs" Line="34" Column="23" />
+      <File FileName="Assets/Scripts/BGMtrigger.cs" Line="5" Column="2" />
+      <File FileName="Assets/Scripts/Sequences/AOpening.cs" Line="4" Column="6" />
       <File FileName="Assets/Scripts/Destroyer.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/DoorCellOpen.cs" Line="14" Column="32" />
+      <File FileName="Assets/Scripts/DoorCellOpen.cs" Line="9" Column="31" />
       <File FileName="Assets/Scripts/PlayerCasting.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Global.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +16,7 @@
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
                 <Node name="Sequences" expanded="True" />
-                <Node name="BGMtrigger.cs" selected="True" />
+                <Node name="Global.cs" selected="True" />
               </Node>
             </Node>
           </Node>
