@@ -70,8 +70,8 @@
     <Compile Include="Assets/Scripts/SceneManager/SceneManager5.cs" />
     <Compile Include="Assets/Scripts/SceneManager/SceneManager7.cs" />
     <Compile Include="Assets/Scripts/SceneManager/PlayerMove1.cs" />
-    <Compile Include="Assets/Scripts/DoorCellOpen.cs" />
-    <Compile Include="Assets/Scripts/Display.cs" />
+    <Compile Include="Assets/Scripts/door_base.cs" />
+    <Compile Include="Assets/Scripts/item_base.cs" />
     <Compile Include="Assets/Scripts/SceneManager/SceneManager1.cs" />
     <Compile Include="Assets/Scripts/InteractableObject.cs" />
     <Compile Include="Assets/Scripts/SceneManager/SceneManager6.cs" />
@@ -79,6 +79,7 @@
     <Compile Include="Assets/Scripts/BGMtrigger.cs" />
     <Compile Include="Assets/Scripts/Destroyer.cs" />
     <Compile Include="Assets/Scripts/CursorManager.cs" />
+    <Compile Include="Assets/Scripts/door_key1.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
