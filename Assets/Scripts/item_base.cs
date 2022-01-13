@@ -17,7 +17,7 @@ public class item_base : MonoBehaviour
     public GameObject TextBox;
     [SerializeField, Multiline]
     string getItemMessage = "";
-    bool aa ;
+    bool aa = true;
     public bool get_item = false;
 
     void Update()
@@ -32,6 +32,7 @@ public class item_base : MonoBehaviour
             ThePlayer.GetComponent<FirstPersonController>().enabled = true;
             Cmd_FindText.SetActive(false);
             aa = true;
+            ThePlayer.tag = "key_a";
         }
 
     }

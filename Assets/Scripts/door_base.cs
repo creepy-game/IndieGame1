@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class DoorCellOpen : MonoBehaviour
+public class door_base : MonoBehaviour
 {
     public float TheDistance;
     public GameObject TextBox;
