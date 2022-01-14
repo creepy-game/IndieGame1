@@ -57,16 +57,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/PickUpPistol.cs" />
-    <Compile Include="Assets/Scripts/PlayerCasting.cs" />
+    <Compile Include="Assets/Scripts/base/PlayerCasting.cs" />
     <Compile Include="Assets/Scripts/base/MoveingEnemy.cs" />
     <Compile Include="Assets/Scripts/Explain.cs" />
-    <Compile Include="Assets/Scripts/Sequences/AOpening.cs" />
+    <Compile Include="Assets/Scripts/item/AOpening.cs" />
     <Compile Include="Assets/Scripts/base/SceneManager3.cs" />
     <Compile Include="Assets/Scripts/base/PlayerMove3.cs" />
     <Compile Include="Assets/Scripts/base/PlayerMove2.cs" />
     <Compile Include="Assets/Scripts/base/SceneManager4.cs" />
     <Compile Include="Assets/Scripts/base/SceneManager2.cs" />
-    <Compile Include="Assets/Scripts/SimpleInventory.cs" />
+    <Compile Include="Assets/Scripts/item.cs" />
     <Compile Include="Assets/Scripts/base/SceneManager5.cs" />
     <Compile Include="Assets/Scripts/base/SceneManager7.cs" />
     <Compile Include="Assets/Scripts/base/PlayerMove1.cs" />
@@ -79,7 +79,7 @@
     <Compile Include="Assets/Scripts/BGMtrigger.cs" />
     <Compile Include="Assets/Scripts/Destroyer.cs" />
     <Compile Include="Assets/Scripts/CursorManager.cs" />
-    <Compile Include="Assets/Scripts/Global.cs" />
+    <Compile Include="Assets/Scripts/item_check.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
