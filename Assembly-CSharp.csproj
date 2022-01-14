@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/PickUpPistol.cs" />
+    <Compile Include="Assets/Scripts/item_check.cs" />
     <Compile Include="Assets/Scripts/base/PlayerCasting.cs" />
     <Compile Include="Assets/Scripts/base/MoveingEnemy.cs" />
     <Compile Include="Assets/Scripts/Explain.cs" />
@@ -71,7 +72,7 @@
     <Compile Include="Assets/Scripts/base/SceneManager7.cs" />
     <Compile Include="Assets/Scripts/base/PlayerMove1.cs" />
     <Compile Include="Assets/Scripts/door_base.cs" />
-    <Compile Include="Assets/Scripts/item_base.cs" />
+    <Compile Include="Assets/Scripts/Item_base.cs" />
     <Compile Include="Assets/Scripts/base/SceneManager1.cs" />
     <Compile Include="Assets/Scripts/InteractableObject.cs" />
     <Compile Include="Assets/Scripts/base/SceneManager6.cs" />
@@ -79,7 +80,7 @@
     <Compile Include="Assets/Scripts/BGMtrigger.cs" />
     <Compile Include="Assets/Scripts/Destroyer.cs" />
     <Compile Include="Assets/Scripts/CursorManager.cs" />
-    <Compile Include="Assets/Scripts/item_check.cs" />
+    <Compile Include="Assets/Scripts/door_key_a.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

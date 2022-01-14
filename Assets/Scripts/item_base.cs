@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityStandardAssets.Characters.FirstPerson;
 
-public class item_base : MonoBehaviour
+public class Item_base : MonoBehaviour
 {
     public float TheDistance;
     public GameObject Cmd_FindText;
@@ -12,11 +12,10 @@ public class item_base : MonoBehaviour
     public GameObject Item_Photo;
     public GameObject Item_Panel;
     public GameObject ThePlayer;
-    [Header("アイテムを使う場合のみ設定")]
     public GameObject TextBox;
     [SerializeField, Multiline]
     string getItemMessage = "";
-    bool aa = true;
+    bool aa = true;//Cmd_FindTextがアイテムを入手panelが出た際に見えなくなる用.
 
     void Update()
     {
@@ -26,8 +25,8 @@ public class item_base : MonoBehaviour
             Item_Photo.SetActive(false);
             Item_Panel.SetActive(false);
             Cmd_ReturnText.SetActive(false);
-            ThePlayer.GetComponent<FirstPersonController>().enabled = true;
             Cmd_FindText.SetActive(false);
+            ThePlayer.GetComponent<FirstPersonController>().enabled = true;
             aa = true;
         }
     }
