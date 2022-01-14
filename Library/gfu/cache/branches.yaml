@@ -13,15 +13,43 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-09-23T21:16:08.661+09:00
-  initializedAtString: 2021-09-23T21:05:17.061+09:00
+  lastUpdatedAtString: 2022-01-13T21:53:29.620+09:00
+  initializedAtString: 2022-01-13T21:53:29.595+09:00
   localBranches:
-  - name: ikeke2
-    tracking: origin/ikeke2
+  - name: a
+    tracking: 
   - name: main2
     tracking: origin/main2
+  - name: master
+    tracking: 
+  - name: develop/overall
+    tracking: 
+  - name: feature/extra
+    tracking: 
+  - name: feature/stage1
+    tracking: 
+  - name: feature/stage2
+    tracking: origin/feature/stage2
+  - name: feature/stage3
+    tracking: 
+  - name: feature/stage4
+    tracking: 
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
+    tracking: '[None]'
+  - name: origin/develop/overall
+    tracking: '[None]'
+  - name: origin/feature/extra
+    tracking: '[None]'
+  - name: origin/feature/stage1
+    tracking: '[None]'
+  - name: origin/feature/stage2
+    tracking: '[None]'
+  - name: origin/feature/stage3
+    tracking: '[None]'
+  - name: origin/feature/stage4
     tracking: '[None]'
   remotes:
   - name: origin
@@ -33,28 +61,112 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - ikeke2
+    - a
     - main2
+    - master
+    - develop/overall
+    - feature/extra
+    - feature/stage1
+    - feature/stage2
+    - feature/stage3
+    - feature/stage4
     values:
-    - name: ikeke2
+    - name: a
       remote:
-        name: origin
-        url: https://github.com/creepy-game/IndieGame1.git
-      trackingBranch: ikeke2
+        name: 
+        url: 
+      trackingBranch: 
     - name: main2
       remote:
         name: origin
         url: https://github.com/creepy-game/IndieGame1.git
       trackingBranch: main2
+    - name: master
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: develop/overall
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: feature/extra
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: feature/stage1
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: feature/stage2
+      remote:
+        name: origin
+        url: https://github.com/creepy-game/IndieGame1.git
+      trackingBranch: feature/stage2
+    - name: feature/stage3
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
+    - name: feature/stage4
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - HEAD
+      - master
+      - develop/overall
+      - feature/extra
+      - feature/stage1
+      - feature/stage2
+      - feature/stage3
+      - feature/stage4
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/creepy-game/IndieGame1.git
+        trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/creepy-game/IndieGame1.git
+        trackingBranch: 
+      - name: develop/overall
+        remote:
+          name: origin
+          url: https://github.com/creepy-game/IndieGame1.git
+        trackingBranch: 
+      - name: feature/extra
+        remote:
+          name: origin
+          url: https://github.com/creepy-game/IndieGame1.git
+        trackingBranch: 
+      - name: feature/stage1
+        remote:
+          name: origin
+          url: https://github.com/creepy-game/IndieGame1.git
+        trackingBranch: 
+      - name: feature/stage2
+        remote:
+          name: origin
+          url: https://github.com/creepy-game/IndieGame1.git
+        trackingBranch: 
+      - name: feature/stage3
+        remote:
+          name: origin
+          url: https://github.com/creepy-game/IndieGame1.git
+        trackingBranch: 
+      - name: feature/stage4
         remote:
           name: origin
           url: https://github.com/creepy-game/IndieGame1.git
