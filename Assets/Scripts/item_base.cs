@@ -4,31 +4,35 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityStandardAssets.Characters.FirstPerson;
 
-public class Item_base : MonoBehaviour
+public class item_base : MonoBehaviour
 {
     public float TheDistance;
     public GameObject Cmd_FindText;
     public GameObject Cmd_ReturnText;
     public GameObject Item_Photo;
     public GameObject Item_Panel;
+    public GameObject Expalain;
     public GameObject ThePlayer;
+    [Header("アイテムを使う場合のみ設定")]
     public GameObject TextBox;
     [SerializeField, Multiline]
     string getItemMessage = "";
-    bool aa = true;//Cmd_FindTextがアイテムを入手panelが出た際に見えなくなる用.
+    bool aa = true;
 
     void Update()
     {
         TheDistance = PlayerCasting.DistanceFromTarget;
         if (Input.GetButtonDown("Return"))//r:Keyを割り当てている
         {
+            Expalain.SetActive(false);
             Item_Photo.SetActive(false);
             Item_Panel.SetActive(false);
             Cmd_ReturnText.SetActive(false);
-            Cmd_FindText.SetActive(false);
             ThePlayer.GetComponent<FirstPersonController>().enabled = true;
+            Cmd_FindText.SetActive(false);
             aa = true;
         }
+
     }
 
     void OnMouseOver()
@@ -43,13 +47,14 @@ public class Item_base : MonoBehaviour
             if (TheDistance <= 10)
             {
                 Cmd_FindText.SetActive(false);
+                Expalain.SetActive(true);
                 Item_Photo.SetActive(true);
                 Item_Panel.SetActive(true);
                 Cmd_ReturnText.SetActive(true);
                 ThePlayer.GetComponent<FirstPersonController>().enabled = false;
                 aa = false;
-                Cmd_FindText.SetActive(true);
                 TextBox.GetComponent<Text>().text = getItemMessage;
+
             }
         }
     }

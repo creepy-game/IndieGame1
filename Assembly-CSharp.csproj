@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{901BF749-6EE3-4A21-B323-5D053982E3F3}</ProjectGuid>
+    <ProjectGuid>{EF9703A1-9C1C-6006-5DBC-AEF4D45950A3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,29 +58,29 @@
   <ItemGroup>
     <Compile Include="Assets/Scripts/PickUpPistol.cs" />
     <Compile Include="Assets/Scripts/item_check.cs" />
-    <Compile Include="Assets/Scripts/base/PlayerCasting.cs" />
-    <Compile Include="Assets/Scripts/base/MoveingEnemy.cs" />
+    <Compile Include="Assets/Scripts/Base/PlayerCasting.cs" />
+    <Compile Include="Assets/Scripts/Base/MoveingEnemy.cs" />
     <Compile Include="Assets/Scripts/Explain.cs" />
     <Compile Include="Assets/Scripts/item/AOpening.cs" />
-    <Compile Include="Assets/Scripts/base/SceneManager3.cs" />
-    <Compile Include="Assets/Scripts/base/PlayerMove3.cs" />
-    <Compile Include="Assets/Scripts/base/PlayerMove2.cs" />
-    <Compile Include="Assets/Scripts/base/SceneManager4.cs" />
-    <Compile Include="Assets/Scripts/base/SceneManager2.cs" />
+    <Compile Include="Assets/Scripts/door_key_a.cs" />
+    <Compile Include="Assets/Scripts/Base/SceneManager3.cs" />
+    <Compile Include="Assets/Scripts/Base/PlayerMove3.cs" />
+    <Compile Include="Assets/Scripts/Base/PlayerMove2.cs" />
+    <Compile Include="Assets/Scripts/Base/SceneManager4.cs" />
+    <Compile Include="Assets/Scripts/Base/SceneManager2.cs" />
     <Compile Include="Assets/Scripts/item.cs" />
-    <Compile Include="Assets/Scripts/base/SceneManager5.cs" />
-    <Compile Include="Assets/Scripts/base/SceneManager7.cs" />
-    <Compile Include="Assets/Scripts/base/PlayerMove1.cs" />
+    <Compile Include="Assets/Scripts/Base/SceneManager5.cs" />
+    <Compile Include="Assets/Scripts/Base/SceneManager7.cs" />
+    <Compile Include="Assets/Scripts/Base/PlayerMove1.cs" />
     <Compile Include="Assets/Scripts/door_base.cs" />
-    <Compile Include="Assets/Scripts/Item_base.cs" />
-    <Compile Include="Assets/Scripts/base/SceneManager1.cs" />
+    <Compile Include="Assets/Scripts/item_base.cs" />
+    <Compile Include="Assets/Scripts/Base/SceneManager1.cs" />
     <Compile Include="Assets/Scripts/InteractableObject.cs" />
-    <Compile Include="Assets/Scripts/base/SceneManager6.cs" />
-    <Compile Include="Assets/Scripts/base/SceneManager8.cs" />
+    <Compile Include="Assets/Scripts/Base/SceneManager6.cs" />
+    <Compile Include="Assets/Scripts/Base/SceneManager8.cs" />
     <Compile Include="Assets/Scripts/BGMtrigger.cs" />
     <Compile Include="Assets/Scripts/Destroyer.cs" />
     <Compile Include="Assets/Scripts/CursorManager.cs" />
-    <Compile Include="Assets/Scripts/door_key_a.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -698,7 +698,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{161A767C-9C49-9B15-993C-3A9FC751C5A2}</Project>
+      <Project>{E59C2BAE-BF6E-1E71-E8BD-070BF55424F3}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
