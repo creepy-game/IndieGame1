@@ -76,12 +76,13 @@
     <Compile Include="Assets/Scripts/item_base.cs" />
     <Compile Include="Assets/Scripts/Base/SceneManager1.cs" />
     <Compile Include="Assets/Scripts/InteractableObject.cs" />
+    <Compile Include="Assets/Scripts/key_a.cs" />
     <Compile Include="Assets/Scripts/Base/SceneManager6.cs" />
     <Compile Include="Assets/Scripts/Base/SceneManager8.cs" />
     <Compile Include="Assets/Scripts/BGMtrigger.cs" />
     <Compile Include="Assets/Scripts/Destroyer.cs" />
     <Compile Include="Assets/Scripts/CursorManager.cs" />
-    <Compile Include="Assets/Scripts/key_a.cs" />
+    <Compile Include="Assets/Scripts/endroll.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

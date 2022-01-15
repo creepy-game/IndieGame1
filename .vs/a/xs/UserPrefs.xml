@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{EF9703A1-9C1C-6006-5DBC-AEF4D45950A3}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/key_a.cs">
     <Files>
-      <File FileName="Assets/Scripts/Explain.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/item_base.cs" Line="10" Column="36" />
-      <File FileName="Assets/Scripts/key_a.cs" Line="7" Column="17" />
+      <File FileName="Assets/Scripts/endroll.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Explain.cs" />
+      <File FileName="Assets/Scripts/item_base.cs" />
+      <File FileName="Assets/Scripts/key_a.cs" Line="54" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +12,7 @@
           <Node name="a" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="key_a.cs" selected="True" />
+                <Node name="endroll.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -21,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="db46b0ed-4311-4100-80dd-28b28564e477" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="026c8d3b-5d1b-4fe9-9597-1c6655463244" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
