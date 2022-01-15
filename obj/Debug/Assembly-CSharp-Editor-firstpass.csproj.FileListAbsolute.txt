@@ -1,2 +1,4 @@
 /Volumes/SunDisk/Unity/Games/IndieGame1/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
 /Volumes/SunDisk/Unity/Games/IndieGame1/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+/Volumes/SunDisk/Unity/Games/a/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
+/Volumes/SunDisk/Unity/Games/a/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache

@@ -40,9 +40,7 @@ public class Item_key_a : MonoBehaviour
 
         IEnumerator cc()
         {
-            yield return new WaitForSeconds(1.5f);
             TextBox.GetComponent<Text>().text = getItemMessage;
-
             yield return new WaitForSeconds(2);
             TextBox.GetComponent<Text>().text = "";
         }
