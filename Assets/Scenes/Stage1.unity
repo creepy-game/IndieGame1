@@ -2038,7 +2038,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 150907396}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.97, y: 5.3987765, z: 40.5401}
+  m_LocalPosition: {x: -19.5, y: 5.3987765, z: 40.5401}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1081977382}
@@ -3278,7 +3278,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 228379009}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -15.1, y: 5.3987765, z: 40.5401}
+  m_LocalPosition: {x: -2.35, y: 5.3987765, z: 40.5401}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2111763994}
@@ -7895,7 +7895,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-7134
+  m_Name: pb_Mesh-30476
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -14471,7 +14471,6 @@ MonoBehaviour:
   Cmd_ReturnText: {fileID: 1767915857}
   Item_Photo: {fileID: 1580748902}
   Item_Panel: {fileID: 294335339}
-  Expalain: {fileID: 0}
   ThePlayer: {fileID: 1291878857}
   TextBox: {fileID: 1664075142}
   getItemMessage: yyyyyyyyy
@@ -15872,10 +15871,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TheDistance: 0
-  Cmd_FindText: {fileID: 1171287256}
-  Cmd_ReturnText: {fileID: 1767915857}
-  Expalain: {fileID: 1664075142}
   ThePlayer: {fileID: 1291878857}
+  Cmd_find: {fileID: 1171287256}
   Light: {fileID: 906276457}
   TextBox: {fileID: 1664075142}
   getItemMessage: "\u5165\u624B\u3057\u305F"
@@ -17069,7 +17066,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2410
+  m_Name: pb_Mesh-25752
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -20846,6 +20843,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   defaultCursor: {fileID: 2800000, guid: 2b61a06e6470f41a68c6fe9f31efb243, type: 3}
   interactCursor: {fileID: 2800000, guid: d86d98e437f7641e782b83320bdb8cb3, type: 3}
+  mainCamera: {fileID: 0}
+  targetObject: {fileID: 0}
 --- !u!1001 &1412986813
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25167,7 +25166,6 @@ MonoBehaviour:
   Cmd_ReturnText: {fileID: 1767915857}
   Item_Photo: {fileID: 1580748902}
   Item_Panel: {fileID: 294335339}
-  Expalain: {fileID: 1664075142}
   ThePlayer: {fileID: 1291878857}
   TextBox: {fileID: 1664075142}
   getItemMessage: yyyyyyyyy
@@ -25915,7 +25913,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1763048699}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -17.25, y: 5.3987765, z: 40.5401}
+  m_LocalPosition: {x: -17.25, y: 5.3987765, z: 61.32}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1679469195}
@@ -26820,7 +26818,6 @@ MonoBehaviour:
   Cmd_ReturnText: {fileID: 1767915857}
   Item_Photo: {fileID: 1580748902}
   Item_Panel: {fileID: 294335339}
-  Expalain: {fileID: 0}
   ThePlayer: {fileID: 1291878857}
   TextBox: {fileID: 1664075142}
   getItemMessage: yyyyyyyyy
@@ -31405,7 +31402,7 @@ GameObject:
   - component: {fileID: 2111763994}
   - component: {fileID: 2111763998}
   - component: {fileID: 2111763996}
-  - component: {fileID: 2111763999}
+  - component: {fileID: 2111763995}
   m_Layer: 0
   m_Name: aa
   m_TagString: Untagged
@@ -31427,6 +31424,28 @@ Transform:
   m_Father: {fileID: 228379014}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2111763995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2111763993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67fe6b7096641422d830c9c3b544e2ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TheDistance: 0
+  Cmd_FindText: {fileID: 1171287256}
+  Cmd_ReturnText: {fileID: 1767915857}
+  Item_Photo: {fileID: 1580748902}
+  Item_Panel: {fileID: 294335339}
+  Expalain: {fileID: 1664075142}
+  ThePlayer: {fileID: 1291878857}
+  TextBox: {fileID: 1664075142}
+  getItemMessage: rrrr
+  aa: 1
 --- !u!65 &2111763996
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31435,7 +31454,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2111763993}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 2, y: 2, z: 2}
@@ -31448,27 +31467,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2111763993}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &2111763999
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2111763993}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f9100887931ac4f9fa7c567596151de8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  TheDistance: 0
-  Cmd_FindText: {fileID: 1171287256}
-  Cmd_ReturnText: {fileID: 1767915857}
-  Item_Photo: {fileID: 1580748902}
-  Item_Panel: {fileID: 294335339}
-  Expalain: {fileID: 1664075142}
-  ThePlayer: {fileID: 1291878857}
-  TextBox: {fileID: 1664075142}
-  getItemMessage: yyyyyyyyy
 --- !u!4 &2117476639 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8956833130864517018, guid: bccc4ebf74348be41b2b30e946affacf, type: 3}

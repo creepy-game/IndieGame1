@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(AudioSource))]
-public class BGMtrigger : MonoBehaviour
+public class gim_sound_a : MonoBehaviour
 {
     [Tooltip("Trigger に入っている時の BGM")]
     public AudioClip m_bgmIn;

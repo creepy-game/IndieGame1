@@ -23,7 +23,7 @@ public class endroll : MonoBehaviour
         //　エンドロールが終了した時
         if (isStopEndRoll)
         {
-            //endRollCoroutine = StartCoroutine(GoToNextScene());
+            endRollCoroutine = StartCoroutine(GoToNextScene());
         }
         else
         {
@@ -38,7 +38,7 @@ public class endroll : MonoBehaviour
             }
         }
     }
-    /*
+
     IEnumerator GoToNextScene()
     {
         //　5秒間待つ
@@ -47,10 +47,9 @@ public class endroll : MonoBehaviour
         if (Input.GetKeyDown("space"))
         {
             StopCoroutine(endRollCoroutine);
-            SceneManager.LoadScene("EndRollStartScene");
+            SceneManager.LoadScene("scene_packege");
         }
 
         yield return null;
     }
-    */
 }

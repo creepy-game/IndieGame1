@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Destroyer : MonoBehaviour
+public class gim_destroy : MonoBehaviour
 {
 	public GameObject DestoroyObject;
 	public GameObject objectDestorou;

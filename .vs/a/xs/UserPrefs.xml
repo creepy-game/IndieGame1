@@ -1,10 +1,18 @@
 ﻿<Properties StartupConfiguration="{EF9703A1-9C1C-6006-5DBC-AEF4D45950A3}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/key_a.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Item_explain.cs">
     <Files>
-      <File FileName="Assets/Scripts/endroll.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Explain.cs" />
-      <File FileName="Assets/Scripts/item_base.cs" />
-      <File FileName="Assets/Scripts/key_a.cs" Line="54" Column="33" />
+      <File FileName="Assets/Scripts/endroll.cs" Line="48" Column="10" />
+      <File FileName="Assets/Scripts/Explain.cs" Line="29" Column="1" />
+      <File FileName="Assets/Scripts/item_base.cs" Line="13" Column="34" />
+      <File FileName="Assets/Scripts/Base/PlayerMove2.cs" Line="4" Column="51" />
+      <File FileName="Assets/Scripts/Base/PlayerMove3.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/gim_destroy.cs" Line="3" Column="25" />
+      <File FileName="Assets/Scripts/InteractableObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/gim_sound_a.cs" Line="4" Column="25" />
+      <File FileName="Assets/Scripts/item/AOpening.cs" Line="16" Column="39" />
+      <File FileName="Assets/Scripts/key_a.cs" Line="14" Column="31" />
+      <File FileName="Assets/Scripts/item_base2.cs" Line="56" Column="1" />
+      <File FileName="Assets/Scripts/Item_explain.cs" Line="56" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +20,9 @@
           <Node name="a" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="endroll.cs" selected="True" />
+                <Node name="Base" expanded="True" />
+                <Node name="item" expanded="True" />
+                <Node name="Item_explain.cs" selected="True" />
               </Node>
             </Node>
           </Node>

@@ -4,20 +4,20 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityStandardAssets.Characters.FirstPerson;
 
-public class key_a : MonoBehaviour
+public class item_b : MonoBehaviour
 {
     public float TheDistance;
     public GameObject Cmd_FindText;
     public GameObject Cmd_ReturnText;
+    public GameObject Item_Photo;
+    public GameObject Item_Panel;
     public GameObject Expalain;
     public GameObject ThePlayer;
-    public GameObject Light;
     [Header("アイテムを使う場合のみ設定")]
     public GameObject TextBox;
     [SerializeField, Multiline]
     string getItemMessage = "";
     bool aa = true;
-    bool key_flag = true;
 
     void Update()
     {
@@ -25,16 +25,19 @@ public class key_a : MonoBehaviour
         if (Input.GetButtonDown("Return"))//r:Keyを割り当てている
         {
             Expalain.SetActive(false);
+            Item_Photo.SetActive(false);
+            Item_Panel.SetActive(false);
             Cmd_ReturnText.SetActive(false);
             ThePlayer.GetComponent<FirstPersonController>().enabled = true;
             Cmd_FindText.SetActive(false);
-            aa = true;   
+            aa = true;
         }
+
     }
 
     void OnMouseOver()
     {
-        if (TheDistance <= 10 && aa && key_flag)
+        if (TheDistance <= 10 && aa)
         {
             Cmd_FindText.SetActive(true);
         }
@@ -45,13 +48,23 @@ public class key_a : MonoBehaviour
             {
                 Cmd_FindText.SetActive(false);
                 Expalain.SetActive(true);
-                Light.SetActive(false);
+                Item_Photo.SetActive(true);
+                Item_Panel.SetActive(true);
                 Cmd_ReturnText.SetActive(true);
                 ThePlayer.GetComponent<FirstPersonController>().enabled = false;
                 aa = false;
-                TextBox.GetComponent<Text>().text = getItemMessage;
-                item_check.key_a = true;
-                key_flag = false;
+                StartCoroutine(bb());
+
+
+                IEnumerator bb()
+                {
+                    yield return new WaitForSeconds(1.5f);
+                    TextBox.GetComponent<Text>().text = getItemMessage;
+
+                    yield return new WaitForSeconds(2);
+                    TextBox.GetComponent<Text>().text = "";
+                }
+
             }
         }
     }
