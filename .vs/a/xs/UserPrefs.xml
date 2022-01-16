@@ -1,20 +1,19 @@
 ﻿<Properties StartupConfiguration="{EF9703A1-9C1C-6006-5DBC-AEF4D45950A3}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Base/LoadScene.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/gim_destroy.cs">
     <Files>
-      <File FileName="Assets/Scripts/Base/endroll.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/Base/PlayerMove2.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Assets/Scripts/Base/endroll.cs" Line="18" Column="1" />
       <File FileName="Assets/Scripts/Scene_gameover.cs" Line="8" Column="1" />
-      <File FileName="Assets/Scripts/item_base.cs" Line="9" Column="1" />
-      <File FileName="Assets/Scripts/Base/PlayerMove2.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Base/PlayerMove3.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/gim_destroy.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/gim_sound_a.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/gim_sound_a.cs" Line="6" Column="1" />
       <File FileName="Assets/Scripts/item/AOpening.cs" Line="19" Column="30" />
       <File FileName="Assets/Scripts/item_base2.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Item_explain.cs" Line="33" Column="1" />
       <File FileName="Assets/Scripts/Base/SceneManager7.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Base/LoadScene.cs" Line="13" Column="46" />
       <File FileName="Assets/Scripts/Base/openning.cs" Line="46" Column="1" />
-      <File FileName="Assets/Scripts/item_check.cs" Line="12" Column="6" />
+      <File FileName="Assets/Scripts/item_check.cs" Line="3" Column="15" />
+      <File FileName="Assets/Scripts/feel_hub.cs" Line="28" Column="10" />
+      <File FileName="Assets/Scripts/gim_destroy.cs" Line="6" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,10 +21,8 @@
           <Node name="a" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Base" expanded="True">
-                  <Node name="openning.cs" selected="True" />
-                </Node>
-                <Node name="item" expanded="True" />
+                <Node name="Base" expanded="True" />
+                <Node name="gim_destroy.cs" selected="True" />
               </Node>
             </Node>
           </Node>
