@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class item_check : MonoBehaviour
+public class Item_hub : MonoBehaviour
 {
     [Header("どのアイテムを持っているかを確認できるglobalな関数")]
     public static bool key_a = false;

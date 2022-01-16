@@ -7,15 +7,19 @@ using UnityEngine.UI;
 public class endroll : MonoBehaviour
 {
     [Header("エンドロールでtextの流す速度などの調整")]
-    //　テキストのスクロールスピード
+
+    [Tooltip("テキストのスクロールスピード")]
     [SerializeField]
     private float textScrollSpeed = 30;
-    //　テキストの制限位置
+
+    [Tooltip("テキストの制限位置")]
     [SerializeField]
     private float limitPosition = 730f;
-    //　エンドロールが終了したかどうか
+
+    [Tooltip("エンドロールが終了したかどうか")]
     private bool isStopEndRoll;
-    //　シーン移動用コルーチン
+
+    [Tooltip("シーン移動用コルーチン")]
     private Coroutine endRollCoroutine;
 
     // Update is called once per frame
