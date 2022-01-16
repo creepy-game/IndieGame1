@@ -325,8 +325,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 0, y: -248}
+  m_SizeDelta: {x: 600, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &388120702
 MonoBehaviour:
@@ -355,16 +355,13 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 2
     m_MaxSize: 40
-    m_Alignment: 1
+    m_Alignment: 0
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "<color=red><size=50>Producer</size></color>\n \n\u304B\u3081\u304F\u3081\u3061\u3083\u3093\nkamekumechan\nkame\n
-    \n<color=red><size=50>Program</size></color>\n \n\u304B\u3081\u304F\u3081\nkamekumechan\n
-    \n<color=red><size=50>Sound</size></color>\n \n\u304B\u3081\u304F\u3081\n \n
-    \n \n "
+  m_Text: "\u30AF\u30BD\u7720\u3044\n\u304A\u8179\u6E1B\u3063\u305F\n\u30EC\u30DD\u30FC\u30C8\u9762\u5012\u3046\n\u3069\u3044s\njffajrhviuahjrsdvavadvadhjgihuishzriuaiuzgivanifiusuivl,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l\n\n\u6020\u308B\u308B\n\n\u6570\u3059s\n\nv\u304A\u90AAd\u3093jk\u3041\nnvjks\u3093\u30D5\u30A1\njk\u30F4\u30A1\u30F3jkdf\u306A\nbj\u30F4\u30A1\u30F3jkd\u3093vj\u304B\njsbf\u30F4\u30A1\u30F3jk\u3093\u30F4\u30A1\u3058\u3083\u3093fj\u304B\u3093v\njvs\u3093fjk\u3094\u3041kj\u3093\u30D5\u30A1jv\u3093k\u5B57v\u306Ajk\u3093djk\u3093\u30F4\u30A1kj\u3093d\nf\u3063\u03BC\u03B3\u304B\u03BCgk\u3041j\u03B3\u30F4\u30A1\n\nk\u30D5\u30A1mks\u03BC\u03C1hKBmsk\u03BBMBkkfk\u3041\u3048l\nvkskr\u03B2\u03BBks\u03BC\u2192df\nk\u3093fKBsl\u03C1\u305Dp\ns\u3053m\u03C4KB\u03C3\u03BC\u6E56\u03BC\u03C1fk\u5F8C\u30A2p\n\n\n "
 --- !u!222 &388120703
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -382,7 +379,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 388120700}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 18f93d679002a4c9a9bfd1b3bd1fa577, type: 3}
+  m_Script: {fileID: 11500000, guid: 16ee392d8cb58426aa717b6c3760f174, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   textScrollSpeed: 30

@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Scene_gameover : MonoBehaviour
 {
+
     void Update ()
     {
         StartCoroutine(cc());

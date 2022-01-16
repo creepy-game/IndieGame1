@@ -59,8 +59,9 @@
     <Compile Include="Assets/Scripts/item_check.cs" />
     <Compile Include="Assets/Scripts/Base/PlayerCasting.cs" />
     <Compile Include="Assets/Scripts/Base/MoveingEnemy.cs" />
-    <Compile Include="Assets/Scripts/Explain.cs" />
-    <Compile Include="Assets/Scripts/item/AOpening.cs" />
+    <Compile Include="Assets/Scripts/Base/endroll.cs" />
+    <Compile Include="Assets/Scripts/ChapterCall.cs" />
+    <Compile Include="Assets/Scripts/Scene_gameover.cs" />
     <Compile Include="Assets/Scripts/door_key_a.cs" />
     <Compile Include="Assets/Scripts/Base/SceneManager3.cs" />
     <Compile Include="Assets/Scripts/Base/PlayerMove3.cs" />
@@ -71,6 +72,7 @@
     <Compile Include="Assets/Scripts/Base/SceneManager7.cs" />
     <Compile Include="Assets/Scripts/Base/PlayerMove1.cs" />
     <Compile Include="Assets/Scripts/door_base.cs" />
+    <Compile Include="Assets/Scripts/item_base2.cs" />
     <Compile Include="Assets/Scripts/item_base.cs" />
     <Compile Include="Assets/Scripts/Base/SceneManager1.cs" />
     <Compile Include="Assets/Scripts/Item_key_a.cs" />
@@ -78,10 +80,8 @@
     <Compile Include="Assets/Scripts/Base/SceneManager8.cs" />
     <Compile Include="Assets/Scripts/gim_sound_a.cs" />
     <Compile Include="Assets/Scripts/gim_destroy.cs" />
-    <Compile Include="Assets/Scripts/Base/endroll.cs" />
-    <Compile Include="Assets/Scripts/item_base2.cs" />
     <Compile Include="Assets/Scripts/Item_explain.cs" />
-    <Compile Include="Assets/Scripts/Scene_gameover.cs" />
+    <Compile Include="Assets/Scripts/Base/openning.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

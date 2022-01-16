@@ -1,9 +1,8 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class item_check : MonoBehaviour
 {
+    [Header("どのアイテムを持っているかを確認できるglobalな関数")]
     public static bool key_a = false;
     public bool key_1;
 
@@ -11,5 +10,4 @@ public class item_check : MonoBehaviour
     {
         key_1 = key_a;
     }
-
 }

@@ -6,13 +6,13 @@ using UnityStandardAssets.Characters.FirstPerson;
 
 public class item_base : MonoBehaviour
 {
+    [Header("アイテムを拾う時(panel上)で使用")]
     public float TheDistance;
     public GameObject Cmd_FindText;
     public GameObject Cmd_ReturnText;
     public GameObject Item_Photo;
     public GameObject Item_Panel;
     public GameObject ThePlayer;
-    [Header("アイテムを使う場合のみ設定")]
     public GameObject TextBox;
     [SerializeField, Multiline]
     string getItemMessage = "";

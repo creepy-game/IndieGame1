@@ -6,6 +6,7 @@ using UnityEngine.UI;
  
 public class endroll : MonoBehaviour
 {
+    [Header("エンドロールでtextの流す速度などの調整")]
     //　テキストのスクロールスピード
     [SerializeField]
     private float textScrollSpeed = 30;
