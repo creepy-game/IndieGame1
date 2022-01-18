@@ -29,7 +29,7 @@ public class Item_explain : MonoBehaviour
                 Cmd_find.SetActive(false);
                 TextBox.SetActive(true);
                 aa = false;
-                item_check.key_a = true;
+                Item_hub.key_a = true;
                 StartCoroutine(cc());
             }
         }

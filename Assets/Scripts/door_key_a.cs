@@ -30,7 +30,7 @@ public class door_key_a : MonoBehaviour
 
         if (Input.GetButtonDown("Action"))
         {
-            if(TheDistance <= 2 && item_check.key_a)
+            if(TheDistance <= 2 && Item_hub.key_a)
             {
                 this.GetComponent<BoxCollider>().enabled = false;
                 Cmd_Action.SetActive(false);

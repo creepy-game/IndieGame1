@@ -56,13 +56,16 @@
     <Analyzer Include="/Volumes/SunDisk/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/Enemy_move.cs" />
     <Compile Include="Assets/Scripts/Item_hub.cs" />
     <Compile Include="Assets/Scripts/Base/PlayerCasting.cs" />
     <Compile Include="Assets/Scripts/Base/MoveingEnemy.cs" />
+    <Compile Include="Assets/Scripts/Feel_base.cs" />
     <Compile Include="Assets/Scripts/Base/endroll.cs" />
     <Compile Include="Assets/Scripts/ChapterCall.cs" />
     <Compile Include="Assets/Scripts/Scene_gameover.cs" />
     <Compile Include="Assets/Scripts/door_key_a.cs" />
+    <Compile Include="Assets/Scripts/Chase_notice_line.cs" />
     <Compile Include="Assets/Scripts/Base/SceneManager3.cs" />
     <Compile Include="Assets/Scripts/Base/PlayerMove3.cs" />
     <Compile Include="Assets/Scripts/Base/PlayerMove2.cs" />
@@ -70,6 +73,7 @@
     <Compile Include="Assets/Scripts/Base/SceneManager2.cs" />
     <Compile Include="Assets/Scripts/Base/SceneManager5.cs" />
     <Compile Include="Assets/Scripts/Base/SceneManager7.cs" />
+    <Compile Include="Assets/Scripts/Base/openning.cs" />
     <Compile Include="Assets/Scripts/Base/PlayerMove1.cs" />
     <Compile Include="Assets/Scripts/door_base.cs" />
     <Compile Include="Assets/Scripts/item_base2.cs" />
@@ -77,12 +81,13 @@
     <Compile Include="Assets/Scripts/Base/SceneManager1.cs" />
     <Compile Include="Assets/Scripts/Item_key_a.cs" />
     <Compile Include="Assets/Scripts/Base/SceneManager6.cs" />
+    <Compile Include="Assets/Scripts/Chase_hub.cs" />
     <Compile Include="Assets/Scripts/Base/SceneManager8.cs" />
+    <Compile Include="Assets/Scripts/Chase_notice_circle.cs" />
     <Compile Include="Assets/Scripts/gim_sound_a.cs" />
     <Compile Include="Assets/Scripts/gim_destroy.cs" />
     <Compile Include="Assets/Scripts/Item_explain.cs" />
-    <Compile Include="Assets/Scripts/Base/openning.cs" />
-    <Compile Include="Assets/Scripts/feel_hub.cs" />
+    <Compile Include="Assets/Scripts/Chase_enemy.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

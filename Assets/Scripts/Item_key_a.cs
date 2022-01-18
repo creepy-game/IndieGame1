@@ -1,8 +1,6 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityStandardAssets.Characters.FirstPerson;
 
 public class Item_key_a : MonoBehaviour
 {
@@ -32,7 +30,7 @@ public class Item_key_a : MonoBehaviour
                 TextBox.SetActive(true);
                 Light.SetActive(false);
                 aa = false;
-                item_check.key_a = true;
+                Item_hub.key_a = true;
                 key_flag = false;
                 StartCoroutine(cc());
             }
